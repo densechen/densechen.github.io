@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+<!--
+ * @Author       : Dense Chen
+ * @Date         : 2020-01-01 00:49:05
+ * @LastEditTime : 2020-01-01 01:34:18
+ * @LastEditors  : Dense Chen
+ * @Description  : Dense Chen @ NUDT
+ * @FilePath     : /densechen.github.io/README.md
+ * @densechen@forxmail.com/littlelampchen@gmail.com
+ -->
+ <center>
+     <h1>Dense Chen</h1>
+     <div>
+         <span>
+             <img src="assets/phone-solid.svg" width="18px">
+             15259146943
+         </span>
+         ·
+         <span>
+             <img src="assets/envelope-solid.svg" width="18px">
+             densechen@foxmail.com
+         </span>
+         ·
+         <span>
+             <img src="assets/github-brands.svg" width="18px">
+             <a href="https://github.com/densechen">densechen</a>
+         </span>
+     </div>
+ </center>
 
-You can use the [editor on GitHub](https://github.com/densechen/densechen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ ## <img src="assets/info-circle-solid.svg" width="30px"> News 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - I am pursuing my Master's Degree of Computer Science in **National University of Defense Technology** (**NUDT**), China. 
+ - Major in 3d vision.
 
-### Markdown
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Master, National University of Defense Technology, Computer Science, 2019.9~2022.3
+- Undergraduate, Fuzhou University, Computer Science 2015.9~2019.7
 
-```markdown
-Syntax highlighted code block
+## <img src="assets/briefcase-solid.svg" width="30px"> Internship
 
-# Header 1
-## Header 2
-### Header 3
+- **Tencent，AI Lab，Computer Vision Intern，2018.6~2018.12**
+  - Participate in 3D face reconstruction project
 
-- Bulleted
-- List
+- **Ecovacs Robotics, AI Institute，Computer Vision Intern，2019.3~2019.8**
+  - Responsible for Simultaneous Localization And Mapping (SLAM) project
 
-1. Numbered
-2. List
+## <img src="assets/project-diagram-solid.svg" width="30px"> Research
 
-**Bold** and _Italic_ and `Code` text
+- **Deformable Object Tracking With Gated Fusion**
 
-[Link](url) and ![Image](src)
-```
+  *Wenxi Liu ; Yibing Song ; **Dengsheng Chen** ; Shengfeng He ; Yuanlong Yu ; Tao Yan ; Gehard P. Hancke ; Rynson W.H. Lau*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  - In this paper, we propose a deformable convolution layer to enrich the target appearance representations in the tracking-by-detection framework.
 
-### Jekyll Themes
+- **Enhancement Mask for Hippocampus Detection and Segmentation**
+  
+  *Dengsheng Chen; Wenxi Liu ; You Huang ; Tong Tong ; Yuanlong Yu*
+  
+  -  In particular, our approach first localizes the hippocampus from the whole volumetric image and obtains a rough segmentation. This initial segmentation can be used an enhancement mask to extract the fine structure of the hippocampus.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/densechen/densechen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## <img src="assets/tools-solid.svg" width="30px"> Skills
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Coding
+  - ★★★ Python (Anaconda)
+  - ★★☆ matlab
+  - ★★☆ C++,C (CMake)
+  - ★☆☆ Cuda
+- OS
+  - ★★★ Ubuntu (Shell)
+  - ★★★ Docker (Dockerfile)
+- Editor
+  - VSCode (Remote SSH)
+- Deep Learning Framework
+  - ★★★ PyTorch
+  - ★★☆ tensorflow

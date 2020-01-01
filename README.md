@@ -1,7 +1,7 @@
 <!--
  * @Author       : Dense Chen
  * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2020-01-01 10:36:19
+ * @LastEditTime : 2020-01-01 10:41:28
  * @LastEditors  : Dense Chen
  * @Description  : Dense Chen @ NUDT
  * @FilePath     : /densechen.github.io/README.md
@@ -36,14 +36,14 @@
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
 - Master, National University of Defense Technology, Computer Science, 2019.9~2022.3
-- Undergraduate, Fuzhou University, Computer Science 2015.9~2019.7
+- Undergraduate, Fuzhou University, Computer Science, 2015.9~2019.7
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Internship
 
-- **Tencent，AI Lab，Computer Vision Intern，2018.6~2018.12**
+- **Tencent, AI Lab, Computer Vision Intern, 2018.6~2018.12**
   - Participate in 3D face reconstruction project
 
-- **Ecovacs Robotics, AI Institute，Computer Vision Intern，2019.3~2019.8**
+- **Ecovacs Robotics, AI Institute, Computer Vision Intern, 2019.3~2019.8**
   - Responsible for Simultaneous Localization And Mapping (SLAM) project
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research

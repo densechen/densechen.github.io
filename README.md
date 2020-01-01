@@ -1,7 +1,7 @@
 <!--
  * @Author       : Dense Chen
  * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2020-01-01 01:34:18
+ * @LastEditTime : 2020-01-01 10:36:19
  * @LastEditors  : Dense Chen
  * @Description  : Dense Chen @ NUDT
  * @FilePath     : /densechen.github.io/README.md
@@ -27,10 +27,11 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> News 
+## <img src="assets/info-circle-solid.svg" width="30px"> News 
 
  - I am pursuing my Master's Degree of Computer Science in **National University of Defense Technology** (**NUDT**), China. 
- - Major in 3d vision.
+ - Major in 3D Vision.
+ - Interested in Computer Vision.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -51,13 +52,11 @@
 
   *Wenxi Liu ; Yibing Song ; **Dengsheng Chen** ; Shengfeng He ; Yuanlong Yu ; Tao Yan ; Gehard P. Hancke ; Rynson W.H. Lau*
 
-  - In this paper, we propose a deformable convolution layer to enrich the target appearance representations in the tracking-by-detection framework.
 
 - **Enhancement Mask for Hippocampus Detection and Segmentation**
   
   *Dengsheng Chen; Wenxi Liu ; You Huang ; Tong Tong ; Yuanlong Yu*
   
-  -  In particular, our approach first localizes the hippocampus from the whole volumetric image and obtains a rough segmentation. This initial segmentation can be used an enhancement mask to extract the fine structure of the hippocampus.
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
 

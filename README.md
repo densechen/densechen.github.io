@@ -1,7 +1,7 @@
 <!--
  * @Author       : Dense Chen
  * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2020-01-01 10:41:28
+ * @LastEditTime : 2020-01-06 22:47:49
  * @LastEditors  : Dense Chen
  * @Description  : Dense Chen @ NUDT
  * @FilePath     : /densechen.github.io/README.md
@@ -48,15 +48,10 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research
 
-- **Deformable Object Tracking With Gated Fusion**
+- **Deformable Object Tracking With Gated Fusion** [pdf](https://arxiv.org/abs/1809.10417)
 
-  *Wenxi Liu ; Yibing Song ; **Dengsheng Chen** ; Shengfeng He ; Yuanlong Yu ; Tao Yan ; Gehard P. Hancke ; Rynson W.H. Lau*
+- **Enhancement Mask for Hippocampus Detection and Segmentation** [pdf](https://arxiv.org/abs/1902.04244)
 
-
-- **Enhancement Mask for Hippocampus Detection and Segmentation**
-  
-  *Dengsheng Chen; Wenxi Liu ; You Huang ; Tong Tong ; Yuanlong Yu*
-  
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
 
@@ -69,7 +64,7 @@
   - ★★★ Ubuntu (Shell)
   - ★★★ Docker (Dockerfile)
 - Editor
-  - VSCode (Remote SSH)
+  - ★★★ VSCode (Remote SSH)
 - Deep Learning Framework
   - ★★★ PyTorch
   - ★★☆ tensorflow

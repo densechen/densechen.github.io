@@ -1,7 +1,7 @@
 <!--
  * @Author       : Dense Chen
  * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2020-01-06 22:47:49
+ * @LastEditTime : 2020-01-16 09:56:13
  * @LastEditors  : Dense Chen
  * @Description  : Dense Chen @ NUDT
  * @FilePath     : /densechen.github.io/README.md
@@ -30,8 +30,7 @@
 ## <img src="assets/info-circle-solid.svg" width="30px"> News 
 
  - I am pursuing my Master's Degree of Computer Science in **National University of Defense Technology** (**NUDT**), China. 
- - Major in 3D Vision.
- - Interested in Computer Vision.
+ - Major in 3D Vision, Computer Vision.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -68,3 +67,6 @@
 - Deep Learning Framework
   - ★★★ PyTorch
   - ★★☆ tensorflow
+
+### usefull scripts
+[auto-docker-installer](scripts/docker-installer.sh): Usefull script to isntall docker and docker-nvidia in ubuntu-16.04.

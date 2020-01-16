@@ -1,7 +1,7 @@
 <!--
  * @Author       : Dense Chen
  * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2020-01-16 09:56:13
+ * @LastEditTime : 2020-01-16 09:56:50
  * @LastEditors  : Dense Chen
  * @Description  : Dense Chen @ NUDT
  * @FilePath     : /densechen.github.io/README.md
@@ -69,4 +69,5 @@
   - ★★☆ tensorflow
 
 ### usefull scripts
-[auto-docker-installer](scripts/docker-installer.sh): Usefull script to isntall docker and docker-nvidia in ubuntu-16.04.
+
+[auto-docker-installer](scripts/docker-installer.sh): Usefull script to isntall docker and docker-nvidia on ubuntu-16.04.

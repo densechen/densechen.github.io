@@ -47,6 +47,9 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research
 
+- **Learning Canonical Shape Space for Category-Level
+6D Object Pose and Size Estimation** [pdf](https://arxiv.org/pdf/2001.09322.pdf)
+
 - **Deformable Object Tracking With Gated Fusion** [pdf](https://arxiv.org/abs/1809.10417)
 
 - **Enhancement Mask for Hippocampus Detection and Segmentation** [pdf](https://arxiv.org/abs/1902.04244)

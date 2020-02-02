@@ -70,6 +70,8 @@
 - Deep Learning Framework
   - ★★★ PyTorch
   - ★★☆ tensorflow
+- Software
+  - ★★☆ Blender with Python Script
 
 ### usefull scripts
 

@@ -64,13 +64,13 @@
   - ★☆☆ Cuda
 - OS
   - ★★★ Ubuntu (Shell)
-  - ★★★ Docker (Dockerfile)
 - Editor
   - ★★★ VSCode (Remote SSH)
 - Deep Learning Framework
   - ★★★ PyTorch
   - ★★☆ tensorflow
 - Software
+  - ★★★ Docker (Dockerfile)
   - ★★☆ Blender with Python Script
 
 ### usefull scripts

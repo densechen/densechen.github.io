@@ -1,7 +1,7 @@
 <!--
  * @Author       : Dense Chen
  * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2020-03-02 19:08:14
+ * @LastEditTime : 2020-03-02 19:14:02
  * @LastEditors  : Dense Chen
  * @Description  : Dense Chen @ NUDT
  * @FilePath     : /densechen.github.io/README.md
@@ -30,6 +30,7 @@
 ## <img src="assets/info-circle-solid.svg" width="30px"> News 
 
  - I am pursuing my Master's Degree of Computer Science in **National University of Defense Technology** (**NUDT**), China, from 2019.9.
+ - Tutor: [Kevin](http://kevinkaixu.net/)
  - Major in 3D Vision, Computer Vision.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
@@ -69,7 +70,9 @@
   - ★★☆ C++,C (CMake)
   - ★☆☆ Cuda
 - OS
-  - ★★★ Ubuntu (Shell)
+  - ★★★ Linux (Shell)
+  - ★★☆ Mac OS
+  - ★★☆ Windows
 - Editor
   - ★★★ VSCode (Remote SSH)
 - Deep Learning Framework

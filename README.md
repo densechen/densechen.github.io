@@ -84,4 +84,4 @@
 
 ### usefull scripts
 
-[auto-docker-installer](scripts/docker-installer.sh): Usefull script to isntall docker and docker-nvidia on ubuntu-16.04.
+[auto-docker-installer](scripts/docker-installer.sh): Usefull script to install docker and docker-nvidia on ubuntu-16.04.

@@ -1,7 +1,7 @@
 <!--
  * @Author       : Dense Chen
  * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2020-03-02 19:04:57
+ * @LastEditTime : 2020-03-02 19:08:14
  * @LastEditors  : Dense Chen
  * @Description  : Dense Chen @ NUDT
  * @FilePath     : /densechen.github.io/README.md
@@ -50,7 +50,7 @@
 - *CVPR2020*
   - **Learning Canonical Shape Space for Category-Level
 6D Object Pose and Size Estimation** [pdf](https://arxiv.org/pdf/2001.09322.pdf) 
-  - **Dengsheng, Chen**, J. Li , and K. Xu.
+    - **Dengsheng, Chen**, J. Li , and K. Xu.
 
 - *IEEE Trans. Image Processing* 
   - **Deformable Object Tracking With Gated Fusion** [pdf](https://arxiv.org/abs/1809.10417) 

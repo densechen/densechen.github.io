@@ -11,11 +11,6 @@
      <h1>Dense Chen</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             15259146943
-         </span>
-         ·
-         <span>
              <img src="assets/envelope-solid.svg" width="18px">
              densechen@foxmail.com
          </span>
@@ -29,9 +24,8 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> News 
 
- - I am pursuing my Master's Degree of Computer Science in **National University of Defense Technology** (**NUDT**), China, from 2019.9.
- - Tutor: [Kevin](http://kevinkaixu.net/)
- - Major in 3D Vision, Computer Vision.
+ - He studys for a master's degree in computer science and technology under the guidance of [Kai Xu](http://kevinkaixu.net/) in **National University of Defense Technology** (**NUDT**), China, from 2019.9.
+ - He is interested in 3D Vision, Computer Vision and Reinforcement Learning.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -49,11 +43,11 @@
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research    
 - **Chen D**, Xu K. AReLU: Attention-based Rectified Linear Unit[J]. 
   - arXiv preprint arXiv:2006.13858, 2020. 
-  - [pdf](https://arxiv.org/pdf/2006.13858)|[code](https://github.com/densechen/AReLU)
+  - [pdf](https://arxiv.org/pdf/2006.13858),[code](https://github.com/densechen/AReLU)
 
 - **Chen D**, Li J, Wang Z, et al. Learning canonical shape space for category-level 6d object pose and size estimation[C]
   - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 11973-11982. 
-  - [pdf](https://arxiv.org/pdf/2001.09322)|[code](https://github.com/densechen/CASS)
+  - [pdf](https://arxiv.org/pdf/2001.09322),[code](https://github.com/densechen/CASS)
   
 - Liu W, Song Y, **Chen D**, et al. Deformable object tracking with gated fusion[J]. 
   - IEEE Transactions on Image Processing, 2019, 28(8): 3766-3777. 

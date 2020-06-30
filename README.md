@@ -8,7 +8,7 @@
  * @densechen@forxmail.com/littlelampchen@gmail.com
  -->
  <center>
-     <h1>Dense Chen</h1>
+     <h1>Dengsheng Chen</h1>
      <div>
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
@@ -24,8 +24,8 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> News 
 
- - He studys for a master's degree in computer science and technology under the guidance of [Kai Xu](http://kevinkaixu.net/) in **National University of Defense Technology** (**NUDT**), China, from 2019.9.
- - He is interested in 3D Vision, Computer Vision and Reinforcement Learning.
+ - He studies for a master's degree in computer science under the guidance of [Kai Xu](http://kevinkaixu.net/) in National University of Defense Technology (NUDT), China, from 2019.9.
+ - He is interested in 3D vision, computer vision and reinforcement learning.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -33,31 +33,26 @@
 - Undergraduate, Fuzhou University, Computer Science, 2015.9~2019.7
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Internship
+- **Ecovacs Robotics, AI Institute, Computer Vision Intern, 2019.3~2019.8**
+  - Responsible for Simultaneous Localization And Mapping (SLAM) project
 
 - **Tencent, AI Lab, Computer Vision Intern, 2018.6~2018.12**
   - Participate in 3D face reconstruction project
 
-- **Ecovacs Robotics, AI Institute, Computer Vision Intern, 2019.3~2019.8**
-  - Responsible for Simultaneous Localization And Mapping (SLAM) project
-
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research    
 - **Chen D**, Xu K. AReLU: Attention-based Rectified Linear Unit[J]. 
-  - arXiv preprint arXiv:2006.13858, 2020. 
-  - [pdf](https://arxiv.org/pdf/2006.13858),[code](https://github.com/densechen/AReLU)
+  - arXiv preprint arXiv:2006.13858, 2020. [pdf](https://arxiv.org/pdf/2006.13858),[code](https://github.com/densechen/AReLU)
 
 - **Chen D**, Li J, Wang Z, et al. Learning canonical shape space for category-level 6d object pose and size estimation[C]
-  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 11973-11982. 
-  - [pdf](https://arxiv.org/pdf/2001.09322),[code](https://github.com/densechen/CASS)
+  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 11973-11982. [pdf](https://arxiv.org/pdf/2001.09322),[code](https://github.com/densechen/CASS)
   
 - Liu W, Song Y, **Chen D**, et al. Deformable object tracking with gated fusion[J]. 
-  - IEEE Transactions on Image Processing, 2019, 28(8): 3766-3777. 
-  - [pdf](https://arxiv.org/pdf/1809.10417)
+  - IEEE Transactions on Image Processing, 2019, 28(8): 3766-3777. [pdf](https://arxiv.org/pdf/1809.10417)
   
 - **Chen D**, Liu W, Huang Y, et al. Enhancement Mask for Hippocampus Detection and Segmentation[C].
-  - 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018: 455-460. 
-  - [pdf](https://arxiv.org/pdf/1902.04244)
+  - 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018: 455-460. [pdf](https://arxiv.org/pdf/1902.04244)
 
-
+<!--
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
 
 - Coding
@@ -81,3 +76,4 @@
 ### usefull scripts
 
 [auto-docker-installer](scripts/docker-installer.sh): Usefull script to install docker and docker-nvidia on ubuntu-16.04.
+-->

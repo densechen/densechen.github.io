@@ -46,6 +46,9 @@
 - **Chen D**, Li J, Wang Z, et al. Learning canonical shape space for category-level 6d object pose and size estimation[C]
   - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 11973-11982. [paper](https://arxiv.org/pdf/2001.09322),[code](https://github.com/densechen/CASS)
   
+- **Chen D**, Yu Y, Huang Z. Online memory learning for active object recognition[C]
+  - 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019: 2914-2919. [paper](https://ieeexplore.ieee.org/document/8961612)
+  
 - Liu W, Song Y, **Chen D**, et al. Deformable object tracking with gated fusion[J]. 
   - IEEE Transactions on Image Processing, 2019, 28(8): 3766-3777. [paper](https://arxiv.org/pdf/1809.10417)
   

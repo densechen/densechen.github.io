@@ -34,26 +34,21 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Internship
 - **Ecovacs Robotics, AI Institute, Computer Vision Intern, 2019**
-  - Responsible for Simultaneous Localization And Mapping (SLAM) project
+  <!-- - Responsible for Simultaneous Localization And Mapping (SLAM) project -->
 
 - **Tencent, AI Lab, Computer Vision Intern, 2018**
-  - Participate in 3D face reconstruction project
+  <!-- - Participate in 3D face reconstruction project -->
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research    
-- **Chen D**, Xu K. AReLU: Attention-based Rectified Linear Unit[J]. 
-  - arXiv preprint arXiv:2006.13858, 2020. [paper](https://arxiv.org/pdf/2006.13858),[code](https://github.com/densechen/AReLU)
+- **Chen D**, Xu K. AReLU: Attention-based Rectified Linear Unit[J]. arXiv preprint arXiv:2006.13858, 2020. [PAPER](https://arxiv.org/pdf/2006.13858),[CODE](https://github.com/densechen/AReLU)
 
-- **Chen D**, Li J, Wang Z, et al. Learning canonical shape space for category-level 6d object pose and size estimation[C]
-  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 11973-11982. [paper](https://arxiv.org/pdf/2001.09322),[code](https://github.com/densechen/CASS)
+- **Chen D**, Li J, Wang Z, et al. Learning canonical shape space for category-level 6d object pose and size estimation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 11973-11982.[PAPER](https://arxiv.org/pdf/2001.09322),[CODE](https://github.com/densechen/CASS)
   
-- **Chen D**, Yu Y, Huang Z. Online memory learning for active object recognition[C]
-  - 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019: 2914-2919. [paper](https://ieeexplore.ieee.org/document/8961612)
+- **Chen D**, Yu Y, Huang Z. Online memory learning for active object recognition[C]//2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019: 2914-2919.[PAPER](https://ieeexplore.ieee.org/document/8961612)
   
-- Liu W, Song Y, **Chen D**, et al. Deformable object tracking with gated fusion[J]. 
-  - IEEE Transactions on Image Processing, 2019, 28(8): 3766-3777. [paper](https://arxiv.org/pdf/1809.10417)
-  
-- **Chen D**, Liu W, Huang Y, et al. Enhancement Mask for Hippocampus Detection and Segmentation[C].
-  - 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018: 455-460. [paper](https://arxiv.org/pdf/1902.04244)
+- Liu W, Song Y, **Chen D**, et al. Deformable object tracking with gated fusion[J]. IEEE Transactions on Image Processing, 2019, 28(8): 3766-3777.[PAPER](https://arxiv.org/pdf/1809.10417)
+
+- **Chen D**, Liu W, Huang Y, et al. Enhancement Mask for Hippocampus Detection and Segmentation[C]//2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018: 455-460.[PAPER](https://arxiv.org/pdf/1902.04244)
 
 <!--
 ## <img src="assets/tools-solid.svg" width="30px"> Skills

@@ -54,6 +54,10 @@
 - [DirIP: Differentiable Renderer for Iterative 6D Pose Estimation](https://github.com/densechen/DirIP)
   - We tried to use differentiable renderer (provided by pytorch3d) for iterative 6D pose estimation, but haven't obtained satisfying performance. However, this project has made a quiet good demonstration for using differentiable renderer, which I hope can do some help to you.
 
+- [Bomberman](https://github.com/densechen/Bomberman)
+  - Bomberman with Pommerman: A platform to play with Reinforcement Learning.
+
+This project is under developing. Welcome to issue!
 
 <!--
 ## <img src="assets/tools-solid.svg" width="30px"> Skills

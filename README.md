@@ -50,6 +50,11 @@
 
 - **Chen D**, Liu W, Huang Y, et al. Enhancement Mask for Hippocampus Detection and Segmentation[C]//2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018: 455-460.[PAPER](https://arxiv.org/pdf/1902.04244)
 
+## <img src="assets/tools-solid.svg" width="30px"> Project
+- [DirIP: Differentiable Renderer for Iterative 6D Pose Estimation](https://github.com/densechen/DirIP)
+  - We tried to use differentiable renderer (provided by pytorch3d) for iterative 6D pose estimation, but haven't obtained satisfying performance. However, this project has made a quiet good demonstration for using differentiable renderer, which I hope can do some help to you.
+
+
 <!--
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
 

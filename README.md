@@ -42,47 +42,17 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research
 
-- **Chen D**, Xu K. AReLU: Attention-based Rectified Linear Unit[J]. arXiv preprint arXiv:2006.13858, 2020. [PAPER](https://arxiv.org/pdf/2006.13858),[CODE](https://github.com/densechen/AReLU)
+- *Chen, Dengsheng*, and Kai Xu. "AReLU: Attention-based Rectified Linear Unit." arXiv preprint arXiv:2006.13858 (2020). [PAPER](https://arxiv.org/pdf/2006.13858),[CODE](https://github.com/densechen/AReLU)
 
-- **Chen D**, Li J, Wang Z, et al. Learning canonical shape space for category-level 6d object pose and size estimation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 11973-11982.[PAPER](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf),[CODE](https://github.com/densechen/CASS)
+- *Chen, Dengsheng*, et al. "Learning canonical shape space for category-level 6d object pose and size estimation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [PAPER](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf),[CODE](https://github.com/densechen/CASS)
   
-- **Chen D**, Yu Y, Huang Z. Online memory learning for active object recognition[C]//2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019: 2914-2919.[PAPER](https://ieeexplore.ieee.org/document/8961612)
+- *Chen, Dengsheng*, Yuanlong Yu, and Zhiyong Huang. "Online memory learning for active object recognition." 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019. [PAPER](https://ieeexplore.ieee.org/document/8961612)
   
-- Liu W, Song Y, **Chen D**, et al. Deformable object tracking with gated fusion[J]. IEEE Transactions on Image Processing, 2019, 28(8): 3766-3777.[PAPER](https://arxiv.org/pdf/1809.10417)
+- Liu, Wenxi, Song, Yibing, *Chen, Dengsheng,* et al. "Deformable object tracking with gated fusion." IEEE Transactions on Image Processing 28.8 (2019): 3766-3777. [PAPER](https://arxiv.org/pdf/1809.10417)
 
-- **Chen D**, Liu W, Huang Y, et al. Enhancement Mask for Hippocampus Detection and Segmentation[C]//2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018: 455-460.[PAPER](https://arxiv.org/pdf/1902.04244)
+- *Chen, Dengsheng*, et al. "Enhancement Mask for Hippocampus Detection and Segmentation." 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018. [PAPER](https://arxiv.org/pdf/1902.04244)
 
 ## <img src="assets/tools-solid.svg" width="30px"> Project
 
 - [DIP: Differentiable Renderer for Iterative 6D Pose Estimation](https://github.com/densechen/DirIP)
-  - We tried to use differentiable renderer (provided by pytorch3d) for iterative 6D pose estimation, but haven't obtained satisfying performance. However, this project has made a quiet good demonstration for using differentiable renderer, which I hope can do some help to you.
-  
-<!-- 
-- [Bomberman](https://github.com/densechen/Bomberman)
-  - Bomberman with Pommerman: A platform to play with Reinforcement Learning. This project is under developing. Welcome to issue! -->
-
-<!--
-## <img src="assets/tools-solid.svg" width="30px"> Skills
-
-- Coding
-  - ★★★ Python (Anaconda)
-  - ★★☆ matlab
-  - ★★☆ C++,C (CMake)
-  - ★☆☆ Cuda
-- OS
-  - ★★★ Linux (Shell)
-  - ★★☆ Mac OS
-  - ★★☆ Windows
-- Editor
-  - ★★★ VSCode (Remote SSH)
-- Deep Learning Framework
-  - ★★★ PyTorch
-  - ★★☆ tensorflow
-- Software
-  - ★★★ Docker (Dockerfile)
-  - ★★☆ Blender with Python Script
-
-### usefull scripts
-
-[auto-docker-installer](scripts/docker-installer.sh): Usefull script to install docker and docker-nvidia on ubuntu-16.04.
--->
+  - We have tried to use differentiable renderer (provided by pytorch3d) for iterative 6D pose estimation, but haven't obtained satisfying performance. However, this project has made a quiet good demonstration for using differentiable renderer, which I hope can do some help to you.

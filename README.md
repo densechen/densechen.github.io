@@ -25,7 +25,7 @@
 ## <img src="assets/info-circle-solid.svg" width="30px"> News
 
  - He studies for a master's degree in computer science under the guidance of [Kai Xu](http://kevinkaixu.net/) in National University of Defense Technology (NUDT), China, from 2019.
- - He is interested in 3D vision, deep spike neural network and reinforcement learning.
+ - He is interested in 3D vision, deep spiking neural networks and reinforcement learning.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -42,9 +42,9 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research
 
-- *Chen, Dengsheng*, and Kai Xu. ["AReLU: Attention-based Rectified Linear Unit."](https://arxiv.org/pdf/2006.13858) arXiv preprint arXiv:2006.13858 (2020). [CODE](https://github.com/densechen/AReLU)
+- *Chen, Dengsheng*, and Kai Xu. ["AReLU: Attention-based Rectified Linear Unit."](https://arxiv.org/pdf/2006.13858) arXiv preprint arXiv:2006.13858 (2020). [code](https://github.com/densechen/AReLU)
 
-- *Chen, Dengsheng*, et al. ["Learning canonical shape space for category-level 6d object pose and size estimation."](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [CODE](https://github.com/densechen/CASS)
+- *Chen, Dengsheng*, et al. ["Learning canonical shape space for category-level 6d object pose and size estimation."](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [code](https://github.com/densechen/CASS)
   
 - *Chen, Dengsheng*, Yuanlong Yu, and Zhiyong Huang. ["Online memory learning for active object recognition."](https://ieeexplore.ieee.org/document/8961612) 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019.
   

@@ -25,7 +25,7 @@
 ## <img src="assets/info-circle-solid.svg" width="30px"> News
 
  - He studies for a master's degree in computer science under the guidance of [Kai Xu](http://kevinkaixu.net/) in National University of Defense Technology (NUDT), China, from 2019.
- - He is interested in 3D vision, computer vision and reinforcement learning.
+ - He is interested in 3D vision, deep spike neural network and reinforcement learning.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 

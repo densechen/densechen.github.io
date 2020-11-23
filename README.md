@@ -8,7 +8,7 @@
  * @densechen@forxmail.com/littlelampchen@gmail.com
  -->
  <center>
-     <h1>陈登盛</h1>
+     <h1>Dengsheng Chen</h1>
      <div>
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
@@ -17,34 +17,34 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/densechen">主页</a>
+             <a href="https://github.com/densechen">homepage</a>
          </span>
      </div>
  </center>
 
-## <img src="assets/info-circle-solid.svg" width="30px"> 近况
+## <img src="assets/info-circle-solid.svg" width="30px"> News
 
-- 目前就读于国防科技大学计算机科学与技术专业，导师：[徐凯](http://kevinkaixu.net/)
-- 主要对深度学习相关的计算机视觉、三维视觉、强化学习感兴趣。目前也在接触脉冲神经网络。
+ - He studies for a master's degree in computer science under the guidance of [Kai Xu](http://kevinkaixu.net/) in National University of Defense Technology (NUDT), China, from 2019.
+ - He is interested in deep learning and reinforcement learning.
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
-- 硕士，国防科技大学，计算机科学与技术，2019~2022
-- 本科，福州大学，计算机科学与技术，2015~2019
+- Master, National University of Defense Technology, Computer Science, 2019~2022
+- Undergraduate, Fuzhou University, Computer Science, 2015~2019
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 实习经历
+## <img src="assets/briefcase-solid.svg" width="30px"> Internship
 
-- **科沃斯人工智能研究院（南京），计算机视觉实习生，2019**
+- **Ecovacs Robotics, AI Institute, Computer Vision Intern, 2019**
   <!-- - Responsible for Simultaneous Localization And Mapping (SLAM) project -->
 
-- **腾讯人工智能实验室，计算机视觉实习生，2018**
+- **Tencent, AI Lab, Computer Vision Intern, 2018**
   <!-- - Participate in 3D face reconstruction project -->
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 研究
+## <img src="assets/project-diagram-solid.svg" width="30px"> Research
 
-- *Chen, Dengsheng*, and Kai Xu. ["AReLU: Attention-based Rectified Linear Unit."](https://arxiv.org/pdf/2006.13858) arXiv preprint arXiv:2006.13858 (2020). [代码](https://github.com/densechen/AReLU)
+- *Chen, Dengsheng*, and Kai Xu. ["AReLU: Attention-based Rectified Linear Unit."](https://arxiv.org/pdf/2006.13858) arXiv preprint arXiv:2006.13858 (2020). [code](https://github.com/densechen/AReLU)
 
-- *Chen, Dengsheng*, et al. ["Learning canonical shape space for category-level 6d object pose and size estimation."](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [代码](https://github.com/densechen/CASS)
+- *Chen, Dengsheng*, et al. ["Learning canonical shape space for category-level 6d object pose and size estimation."](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [code](https://github.com/densechen/CASS)
   
 - *Chen, Dengsheng*, Yuanlong Yu, and Zhiyong Huang. ["Online memory learning for active object recognition."](https://ieeexplore.ieee.org/document/8961612) 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019.
   
@@ -52,7 +52,7 @@
 
 - *Chen, Dengsheng*, et al. ["Enhancement Mask for Hippocampus Detection and Segmentation."](https://arxiv.org/pdf/1902.04244) 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018.
 
-## <img src="assets/tools-solid.svg" width="30px"> 项目
+## <img src="assets/tools-solid.svg" width="30px"> Project
 
 - [DIP: Differentiable Renderer for Iterative 6D Pose Estimation](https://github.com/densechen/DirIP)
-  - 该项目使用可微分渲染的方式，进行了物体位姿的优化，取得了一定的效果。
+  - We have tried to use differentiable renderer (provided by pytorch3d) for iterative 6D pose estimation, but haven't obtained satisfying performance. However, this project has made a quiet good demonstration for using differentiable renderer, which I hope can do some help to you.

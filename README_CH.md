@@ -17,15 +17,15 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/densechen">主页</a>
+             https://github.com/densechen
          </span>
      </div>
  </center>
 
-## <img src="assets/info-circle-solid.svg" width="30px"> 近况
+## <img src="assets/info-circle-solid.svg" width="30px"> 最近情况
 
-- 目前就读于国防科技大学计算机科学与技术专业，导师：[徐凯](http://kevinkaixu.net/)
-- 主要对深度学习相关的计算机视觉、三维视觉、强化学习感兴趣。目前也在接触脉冲神经网络。
+- 就读于**国防科技大学**计算机科学与技术专业。
+- 感兴趣方向：深度学习、计算机视觉、三维视觉、强化学习、脉冲神经网络。
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -35,12 +35,10 @@
 ## <img src="assets/briefcase-solid.svg" width="30px"> 实习经历
 
 - **科沃斯人工智能研究院（南京），计算机视觉实习生，2019**
-  <!-- - Responsible for Simultaneous Localization And Mapping (SLAM) project -->
 
 - **腾讯人工智能实验室，计算机视觉实习生，2018**
-  <!-- - Participate in 3D face reconstruction project -->
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 研究
+## <img src="assets/project-diagram-solid.svg" width="30px"> 论文成果
 
 - *Chen, Dengsheng*, and Kai Xu. ["AReLU: Attention-based Rectified Linear Unit."](https://arxiv.org/pdf/2006.13858) arXiv preprint arXiv:2006.13858 (2020). [代码](https://github.com/densechen/AReLU)
 
@@ -52,7 +50,7 @@
 
 - *Chen, Dengsheng*, et al. ["Enhancement Mask for Hippocampus Detection and Segmentation."](https://arxiv.org/pdf/1902.04244) 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018.
 
-## <img src="assets/tools-solid.svg" width="30px"> 项目
+## <img src="assets/tools-solid.svg" width="30px"> 其他项目
 
 - [DIP: Differentiable Renderer for Iterative 6D Pose Estimation](https://github.com/densechen/DirIP)
   - 该项目使用可微分渲染的方式，进行了物体位姿的优化，取得了一定的效果。

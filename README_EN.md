@@ -17,15 +17,15 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/densechen">homepage</a>
+             https://github.com/densechen
          </span>
      </div>
  </center>
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> News
 
- - He studies for a master's degree in computer science under the guidance of [Kai Xu](http://kevinkaixu.net/) in National University of Defense Technology (NUDT), China, from 2019.
- - He is interested in deep learning and reinforcement learning.
+ - He is pursuing a master's degree in computer science at the National University of Defense Technology (NUDT) in China since 2019.
+ - He is interested in deep learning, computer vision, 3D vision, reinforcement learning and spiking neural network.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -55,4 +55,4 @@
 ## <img src="assets/tools-solid.svg" width="30px"> Project
 
 - [DIP: Differentiable Renderer for Iterative 6D Pose Estimation](https://github.com/densechen/DirIP)
-  - We have tried to use differentiable renderer (provided by pytorch3d) for iterative 6D pose estimation, but haven't obtained satisfying performance. However, this project has made a quiet good demonstration for using differentiable renderer, which I hope can do some help to you.
+  - We used differentiable renderer to improve the accuracy of objects' 6D pose and achieved satisfactory results.

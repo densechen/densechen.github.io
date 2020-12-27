@@ -7,25 +7,31 @@
  * @FilePath     : /densechen.github.io/README.md
  * @densechen@forxmail.com/littlelampchen@gmail.com
  -->
- <center>
-     <h1>Dengsheng Chen</h1>
-     <div>
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             densechen@foxmail.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             https://github.com/densechen
-         </span>
-     </div>
- </center>
+<center>
+  <h1>Dengsheng Chen</h1>
+    <div>
+      <span>
+        <img src="assets/envelope-solid.svg" width="18px">
+          densechen@foxmail.com
+      </span>
+          ·
+      <span>
+        <img src="assets/github-brands.svg" width="18px">
+          https://github.com/densechen
+      </span>
+    </div>
+</center>
+
+## <img src="assets/info-solid.svg" width="30px"> eve-mli: making learning interesting
+
+Eve is an open-source deep learning framework used to devise various architectures in a more flexible and interesting way. Refer [here](https://densechen.github.io/eve-mli/) to learn more about Eve.
+
+**Any contributions to Eve is welcome!**
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> News
 
- - He is pursuing a master's degree in computer science at the National University of Defense Technology (NUDT) in China since 2019.
- - He is interested in deep learning, computer vision, 3D vision, reinforcement learning and spiking neural network.
+- He is pursuing a master's degree in computer science at the National University of Defense Technology (NUDT) in China since 2019.
+- He is interested in deep learning, computer vision, 3D vision, reinforcement learning and spiking neural network.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -54,5 +60,5 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> Project
 
-- [DIP: Differentiable Renderer for Iterative 6D Pose Estimation](https://github.com/densechen/DirIP)
+- [Pose refinement with differentiable rendering](https://densechen.github.io/Pose-refinement/)
   - We used differentiable renderer to improve the accuracy of objects' 6D pose and achieved satisfactory results.

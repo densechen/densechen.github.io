@@ -1,11 +1,11 @@
 <!--
  * @Author       : Dense Chen
  * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2020-03-02 19:14:02
+ * @LastEditTime : 2022-03-02 19:14:02
  * @LastEditors  : Dense Chen
- * @Description  : Dense Chen @ NUDT
+ * @Description  : Dense Chen @ Meituan
  * @FilePath     : /densechen.github.io/README.md
- * @densechen@forxmail.com/littlelampchen@gmail.com
+ * @densechen@foxmail.com
  -->
 <center>
   <h1>Dengsheng Chen</h1>
@@ -19,46 +19,50 @@
         <img src="assets/github-brands.svg" width="18px">
           https://github.com/densechen
       </span>
+          ·
+      <span>
+        <img src="assets/globe-americas-solid.svg" width="18px">
+          https://densechen.github.io/
+      </span>
     </div>
 </center>
 
-## <img src="assets/info-solid.svg" width="30px"> eve-mli: making learning interesting
+## <img src="assets/info-circle-solid.svg" width="30px"> About Me
 
-Eve is an open-source deep learning framework used to devise various architectures in a more flexible and interesting way. Refer [here](https://densechen.github.io/eve-mli/) to learn more about Eve.
+I am Dengsheng Chen, an experienced AI researcher currently working at Meituan. I have previously interned at Tencent AI Lab, ByteDance, and Ecovacs Nanjing AI Research Institute. My expertise lies in a range of cutting-edge technologies including AIGC, 3DV, NeRF, LLM, and FedML. I have also authored several research papers published in top-tier conferences such as CVPR, ICLR, and AAAI. 
 
-**Any contributions to Eve is welcome!**
-
-## <img src="assets/info-circle-solid.svg" width="30px"> News
-
-- He is pursuing a master's degree in computer science at the National University of Defense Technology (NUDT) in China since 2019.
-- He is interested in deep learning, computer vision, 3D vision, reinforcement learning and spiking neural network.
+I am now looking forward to joining a doctoral program that values technical excellence and innovation, where I can further my research in interactive AI.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
-- Master, National University of Defense Technology, Computer Science, 2019~2022
-- Undergraduate, Fuzhou University, Computer Science, 2015~2019
+- Master's Degree in Computer Science, National University of Defense Technology, 2019-2021
+- Bachelor's Degree in Computer Science, Fuzhou University, 2015-2019
 
-## <img src="assets/briefcase-solid.svg" width="30px"> Internship
+## <img src="assets/briefcase-solid.svg" width="30px"> Experience
 
-- **Ecovacs Robotics, AI Institute, Computer Vision Intern, 2019**
-  <!-- - Responsible for Simultaneous Localization And Mapping (SLAM) project -->
-
-- **Tencent, AI Lab, Computer Vision Intern, 2018**
-  <!-- - Participate in 3D face reconstruction project -->
+- Meituan, AI Researcher, 2021-Present
+- ByteDance (TikTok), AI Intern, 2021
+- Ecovacs Nanjing AI Research Institute, AI Intern, 2019
+- Tencent AI Lab, AI Intern, 2018
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Research
 
-- *Chen, Dengsheng*, and Kai Xu. ["AReLU: Attention-based Rectified Linear Unit."](https://arxiv.org/pdf/2006.13858) arXiv preprint arXiv:2006.13858 (2020). [code](https://github.com/densechen/AReLU)
+Over the years, I have contributed to a number of research papers in the field of AI, with several currently under review for conferences like CVPR and ICLR. My research interests and contributions span across various topics including animation, video sampling, 3D shape manipulation, optimization, and more. Here are a few of my notable research works:
 
+- *Chen, Dengsheng*, et al. ["Animating General Image with Large Visual Motion Model"](https://link_to_paper_if_available). Under review.
+- *Chen, Dengsheng*, et al. ["Zero-Shot Video Sampling from Image"](https://link_to_paper_if_available). Under review.
+- *Chen, Dengsheng*, et al. ["Geometric Imitation Models for 3D Shape Manipulation"](https://link_to_paper_if_available). Under review.
+- *Chen, Dengsheng*, et al. ["Real3D: The Curious Case of Neural Scene Degeneration"](https://link_to_paper_if_available). Proceedings of the AAAI Conference on Artificial Intelligence. 2024.
+- *Chen, Dengsheng*, et al. ["Elastic Aggregation for Federated Optimization"](https://openaccess.thecvf.com/content_CVPR_2023/papers/Chen_Elastic_Aggregation_for_Federated_Optimization_CVPR_2023_paper.pdf). Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. [code](https://github.com/FederalLab/OpenFed/blob/main/openfed/optim/elastic.py)
+- *Chen, Dengsheng*, et al. ["Rethinking skip connection model as a learnable Markov chain"](https://openreview.net/forum?id=link_to_paper_if_available). Proceedings of the International Conference on Learning Representations. 2023. [code](https://github.com/densechen/penal-connection)
 - *Chen, Dengsheng*, et al. ["Learning canonical shape space for category-level 6d object pose and size estimation."](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [code](https://github.com/densechen/CASS)
-  
-- *Chen, Dengsheng*, Yuanlong Yu, and Zhiyong Huang. ["Online memory learning for active object recognition."](https://ieeexplore.ieee.org/document/8961612) 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019.
-  
-- Liu, Wenxi, Song, Yibing, *Chen, Dengsheng,* et al. ["Deformable object tracking with gated fusion."](https://arxiv.org/pdf/1809.10417) IEEE Transactions on Image Processing 28.8 (2019): 3766-3777.
 
-- *Chen, Dengsheng*, et al. ["Enhancement Mask for Hippocampus Detection and Segmentation."](https://arxiv.org/pdf/1902.04244) 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018.
+For more details, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=IFeZHYYAAAAJ&hl=zh-CN).
 
-## <img src="assets/tools-solid.svg" width="30px"> Project
+## <img src="assets/tools-solid.svg" width="30px"> Contributions
 
-- [Pose refinement with differentiable rendering](https://densechen.github.io/Pose-refinement/)
-  - We used differentiable renderer to improve the accuracy of objects' 6D pose and achieved satisfactory results.
+Beyond my research, I am also a core developer of the OpenFed framework and the OpenMM series of tools. I have contributed code to PyTorch3D and have participated in the peer review process for several journals and conferences.
+
+## <img src="assets/info-circle-solid.svg" width="30px"> Contact
+
+If you wish to connect or have any queries, feel free to reach me via email at densechen@foxmail.com or visit my [personal website](https://densechen.github.io/) for more information.

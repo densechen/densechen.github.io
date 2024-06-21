@@ -1,37 +1,31 @@
-<!--
- * @Author       : Dense Chen
- * @Date         : 2020-01-01 00:49:05
- * @LastEditTime : 2022-03-02 19:14:02
- * @LastEditors  : Dense Chen
- * @Description  : Dense Chen @ Meituan
- * @FilePath     : /densechen.github.io/README.md
- * @densechen@foxmail.com
- -->
 <center>
   <h1>Dengsheng Chen</h1>
     <div>
       <span>
-        <img src="assets/envelope-solid.svg" width="18px">
-          densechen@foxmail.com
+        <a href="tel:+86 17310030901">
+          <img src="assets/phone-solid.svg" width="18px">
+        </a>
       </span>
           ·
       <span>
-        <img src="assets/github-brands.svg" width="18px">
-          https://github.com/densechen
+        <a href="mailto:densechen@foxmail.com">
+          <img src="assets/envelope-solid.svg" width="18px">
+        </a>
       </span>
           ·
       <span>
-        <img src="assets/globe-americas-solid.svg" width="18px">
-          https://densechen.github.io/
+        <a href="https://scholar.google.com/citations?user=IFeZHYYAAAAJ&hl">
+          <img src="assets/google-scolar.svg" width="18px">
+        </a>
+      </span>
+          ·
+      <span>
+        <a href="https://densechen.github.io">
+          <img src="assets/github-brands.svg" width="18px">
+        </a>
       </span>
     </div>
 </center>
-
-## <img src="assets/info-circle-solid.svg" width="30px"> About Me
-
-I am Dengsheng Chen, an experienced AI researcher currently working at Meituan. I have previously interned at Tencent AI Lab, ByteDance, and Ecovacs Nanjing AI Research Institute. My expertise lies in a range of cutting-edge technologies including AIGC, 3DV, NeRF, LLM, and FedML. I have also authored several research papers published in top-tier conferences such as CVPR, ICLR, and AAAI. 
-
-I am now looking forward to joining a doctoral program that values technical excellence and innovation, where I can further my research in interactive AI.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -40,29 +34,29 @@ I am now looking forward to joining a doctoral program that values technical exc
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Experience
 
-- Meituan, AI Researcher, 2022-Present
-- ByteDance (TikTok), AI Intern, 2021
-- Ecovacs Nanjing AI Research Institute, AI Intern, 2019
-- Tencent AI Lab, AI Intern, 2018
+- Meituan, AI Researcher, 2022.6~Present
+- ByteDance, AI Intern, 2021.1~2021.12
+- Ecovacs Nanjing AI Research Institute, AI Intern, 2019.1~2019.8
+- Tencent AI Lab, AI Intern, 2018.6~2018.12
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> Research
+## <img src="assets/info-circle-solid.svg" width="30px"> Preprint
 
-Over the years, I have contributed to a number of research papers in the field of AI, with several currently under review for conferences like CVPR and ICLR. My research interests and contributions span across various topics including animation, video sampling, 3D shape manipulation, optimization, and more. Here are a few of my notable research works:
+- "Visual Leakage Boost Diffusion Models." 2024.5
+- "Zero-Shot Video Sampling from Image." 2024.1
+- "Geometric Imitation Models for 3D Shape Manipulation." 2022.12
+- "Improved Squeeze-and-Excitation Networks by Eliminating Disharmony from Collaboration with Normalization." 2022.12
+- "Arelu: Attention-based rectified linear unit." 2020.1
+- "Potential Convolution: Embedding Point Clouds into Potential Fields." 2020.12
 
-- ["Animating General Image with Large Visual Motion Model"](https://link_to_paper_if_available). Under review.
-- ["Zero-Shot Video Sampling from Image"](https://link_to_paper_if_available). Under review.
-- ["Geometric Imitation Models for 3D Shape Manipulation"](https://link_to_paper_if_available). Under review.
-- ["Real3D: The Curious Case of Neural Scene Degeneration"](https://link_to_paper_if_available). Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence. 2024.
-- ["Elastic Aggregation for Federated Optimization"](https://openaccess.thecvf.com/content_CVPR_2023/papers/Chen_Elastic_Aggregation_for_Federated_Optimization_CVPR_2023_paper.pdf). Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. [code](https://github.com/FederalLab/OpenFed/blob/main/openfed/optim/elastic.py)
-- ["Rethinking skip connection model as a learnable Markov chain"](https://openreview.net/forum?id=link_to_paper_if_available). Proceedings of the International Conference on Learning Representations. 2023. [code](https://github.com/densechen/penal-connection)
-- ["Learning canonical shape space for category-level 6d object pose and size estimation."](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [code](https://github.com/densechen/CASS)
+## <img src="assets/project-diagram-solid.svg" width="30px"> Publication
 
-For more details, please refer to my [Google Scholar profile](https://scholar.google.com.hk/citations?user=IFeZHYYAAAAJ&hl=zh-CN).
-
-## <img src="assets/tools-solid.svg" width="30px"> Contributions
-
-Beyond my research, I am also a core developer of the OpenFed framework and the OpenMM series of tools. I have contributed code to PyTorch3D and have participated in the peer review process for several journals and conferences.
-
-## <img src="assets/info-circle-solid.svg" width="30px"> Contact
-
-If you wish to connect or have any queries, feel free to reach me via email at densechen@foxmail.com or visit my [personal website](https://densechen.github.io/) for more information.
+- *Chen, Dengsheng*, Xiaoming Wei, and Xiaolin Wei. "Animating General Image with Large Visual Motion Model." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. (**CVPR2024**)
+- *Chen, Dengsheng*, et al. "Real3D: The Curious Case of Neural Scene Degeneration." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 2. 2024. (**AAAI2024**)
+- *Chen, Dengsheng*, et al. "Elastic aggregation for federated optimization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (**CVPR2023**)
+- *Chen, Dengsheng*, et al. "OpenFed: A comprehensive and versatile open-source federated learning framework." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (**CVPR2023-Workshop**)
+- *Chen, Dengsheng*, et al. "Rethinking skip connection model as a learnable Markov chain." The Eleventh International Conference on Learning Representations. (**ICLR2023**)
+- *Chen, Dengsheng*, et al. "Learning canonical shape space for category-level 6d object pose and size estimation." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. (**CVPR2020**)
+- Liu, Wenxi, et al. "Deformable object tracking with gated fusion." IEEE Transactions on Image Processing 28.8 (2019): 3766-3777. (**TIP**)
+- *Chen, Dengsheng*, et al. "Enhancement mask for hippocampus detection and segmentation." 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018. (**ICIA2018**)
+- *Chen, Dengsheng*, Yuanlong Yu, and Xiang Gao. "Semi-Supervised Deep Learning Framework for Monocular Visual Odometry." (2019). (**IROS2019-Workshop**)
+- *Chen, Dengsheng*, Yuanlong Yu, and Zhiyong Huang. "Online memory learning for active object recognition." 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019. (**ROBIO2019**)

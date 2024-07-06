@@ -27,9 +27,7 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> About Me
 
-I obtained a Master's degree in Computer Science from the National University of Defense Technology in 2022. After graduation, I joined Meituan, primarily working on AIGC and large multimodal models (LMM).
-
-We have internship positions, based in Beijing, related to AIGC (with the possibility of a full-time offer). Students from relevant fields are welcome to apply.
+In 2022, I earned a Master's degree in Computer Science from the National University of Defense Technology. Following my graduation, I joined the Visual Intelligence Department at Meituan. Presently, I am primarily responsible for the training and algorithmic innovation of the foundational model in AIGC.
 
 *Last updated: 2024.6.22*
 
@@ -40,18 +38,10 @@ We have internship positions, based in Beijing, related to AIGC (with the possib
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Experience
 
-- **Meituan, AI Researcher** (2022.6~Present)
-  - AIGC: Image/Video/3D generation.
-
-- **ByteDance, AI Intern** (2021.1~2021.12)
-  - Federated learning: Algorithm optimization and federated learning system.
-
-- **Ecovacs Nanjing AI Research Institute, AI Intern** (2019.1~2019.8)
-  - SLAM: Dense indoor environment construction for sweeping robot.
-
-- **Tencent AI Lab, AI Intern** (2018.6~2018.12)
-  - Depth fusion: 3D face reconstruction from iPhone depth camera.
-
+- **Meituan, AI Researcher** (2022.6~Present): AIGC: Image/Video/3D generation.
+- **ByteDance, AI Intern** (2021.1~2021.12): Federated learning: Algorithm optimization and federated learning system.
+- **Ecovacs Nanjing AI Research Institute, AI Intern** (2019.1~2019.8): SLAM: Dense indoor environment construction for sweeping robot.
+- **Tencent AI Lab, AI Intern** (2018.6~2018.12): Depth fusion: 3D face reconstruction from iPhone depth camera.
 
 ## <img src="assets/rss-solid.svg" width="30px"> Preprint
 
@@ -59,18 +49,19 @@ We have internship positions, based in Beijing, related to AIGC (with the possib
 2. "Zero-Shot Video Sampling from Image." **2024.1**
 3. "Geometric Imitation Models for 3D Shape Manipulation." **2022.12**
 4. "Improved Squeeze-and-Excitation Networks by Eliminating Disharmony from Collaboration with Normalization." **2022.12**
-5. "Arelu: Attention-based rectified linear unit." **2020.1**
-6. "Potential Convolution: Embedding Point Clouds into Potential Fields." **2020.12**
+5. *Dengsheng Chen*, Jun Li, and Kai Xu. Arelu: Attention-based rectified linear unit. arXiv preprint arXiv:2006.13858, 2020.
+6. *Dengsheng Chen*, Haowen Deng, Jun Li, Duo Li, Yao Duan, and Kai Xu. Potential convolution: Embedding point clouds into potential fields. arXiv preprint arXiv:2104.01754, 2021.
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Publication
 
-1. *Chen, Dengsheng*, Xiaoming Wei, and Xiaolin Wei. "Animating General Image with Large Visual Motion Model." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. (**CVPR2024**)
-2. *Chen, Dengsheng*, et al. "Real3D: The Curious Case of Neural Scene Degeneration." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 2. 2024. (**AAAI2024**)
-3. *Chen, Dengsheng*, et al. "Elastic aggregation for federated optimization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (**CVPR2023**)
-4. *Chen, Dengsheng*, et al. "OpenFed: A comprehensive and versatile open-source federated learning framework." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. (**CVPR2023-Workshop**)
-5. *Chen, Dengsheng*, et al. "Rethinking skip connection model as a learnable Markov chain." The Eleventh International Conference on Learning Representations. (**ICLR2023**)
-6. *Chen, Dengsheng*, et al. "Learning canonical shape space for category-level 6d object pose and size estimation." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. (**CVPR2020**)
-7. Liu, Wenxi, et al. "Deformable object tracking with gated fusion." IEEE Transactions on Image Processing 28.8 (2019): 3766-3777. (**TIP**)
-8. *Chen, Dengsheng*, et al. "Enhancement mask for hippocampus detection and segmentation." 2018 IEEE International Conference on Information and Automation (ICIA). IEEE, 2018. (**ICIA2018**)
-9. *Chen, Dengsheng*, Yuanlong Yu, and Xiang Gao. "Semi-Supervised Deep Learning Framework for Monocular Visual Odometry." (2019). (**IROS2019-Workshop**)
-10. *Chen, Dengsheng*, Yuanlong Yu, and Zhiyong Huang. "Online memory learning for active object recognition." 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO). IEEE, 2019. (**ROBIO2019**)
+1. *Dengsheng Chen*, Xiaoming Wei, and Xiaolin Wei. Animating general image with large visual motion model. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 7131–7140, 2024.
+2. *Dengsheng Chen*, Jie Hu, Xiaoming Wei, and Enhua Wu. Real3d: The curious case of neural scene degeneration. In Proceedings of the AAAI Conference on Artificial Intelligence, pages 1028–1036, 2024.
+3. *Dengsheng Chen*, Jie Hu, Vince Junkai Tan, Xiaoming Wei, and Enhua Wu. Elastic aggregation for federated optimization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 12187–12197, 2023.
+4. *Dengsheng Chen*, Vince Junkai Tan, Zhilin Lu, Enhua Wu, and Jie Hu. OpenFed: A comprehensive and versatile open-source federated learning framework. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 5018–5026, 2023.
+5. *Dengsheng Chen*, Jie Hu, Wenwen Qiang, Xiaoming Wei, and Enhua Wu. Rethinking skip connection model as a learnable markov chain. In The Eleventh International Conference on Learning Representations.
+6. *Dengsheng Chen*, Jun Li, Zheng Wang, and Kai Xu. Learning canonical shape space for category-level 6d object pose and size estimation. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pages 11973–11982, 2020.
+7. Wenxi Liu, Yibing Song, *Dengsheng Chen*, Shengfeng He, Yuanlong Yu, Tao Yan, Gehard P Hancke, and Rynson WH Lau. Deformable object tracking with gated
+fusion. IEEE Transactions on Image Processing, 28(8):3766–3777, 2019.
+8. *Dengsheng Chen*, Yuanlong Yu, and Xiang Gao. Semi-supervised deep learning framework for monocular visual odometry. 2019.
+9. *Dengsheng Chen*, Yuanlong Yu, and Zhiyong Huang. Online memory learning for active object recognition. In 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), pages 2914–2919. IEEE, 2019.
+10. *Dengsheng Chen*, Wenxi Liu, You Huang, Tong Tong, and Yuanlong Yu. Enhancement mask for hippocampus detection and segmentation. In 2018 IEEE International Conference on Information and Automation (ICIA), pages 455–460. IEEE, 2018.

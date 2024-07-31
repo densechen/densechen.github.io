@@ -43,7 +43,7 @@ In 2022, I earned a Master's degree in Computer Science from the National Univer
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
-- Master's Degree in Computer Science, National University of Defense Technology, 2019-2021
+- Master's Degree in Computer Science, National University of Defense Technology, 2019-2022
 - Bachelor's Degree in Computer Science, Fuzhou University, 2015-2019
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Experience

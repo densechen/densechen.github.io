@@ -55,9 +55,9 @@ In 2022, I earned a Master's degree in Computer Science from the National Univer
 
 ## <img src="assets/rss-solid.svg" width="30px"> Preprint
 
-1. "Visual Leakage Boost Diffusion Models." **2024.5**
-2. "Zero-Shot Video Sampling from Image." **2024.1**
-3. "Geometric Imitation Models for 3D Shape Manipulation." **2022.12**
+1. "Emergent Abilities of Diffusion Models." **2024.7**
+2. "Fine-gained Zero-shot Video Sampling." **2024.1**
+3. "Deformable 3D Shape Diffusion Model." **2022.12**
 4. "Improved Squeeze-and-Excitation Networks by Eliminating Disharmony from Collaboration with Normalization." **2022.12**
 5. *Dengsheng Chen*, Jun Li, and Kai Xu. Arelu: Attention-based rectified linear unit. arXiv preprint arXiv:2006.13858, 2020.
 6. *Dengsheng Chen*, Haowen Deng, Jun Li, Duo Li, Yao Duan, and Kai Xu. Potential convolution: Embedding point clouds into potential fields. arXiv preprint arXiv:2104.01754, 2021.

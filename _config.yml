@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+
+title: densechen
+author: Dengsheng Chen
+description: >- # this means to ignore newlines until "baseurl:"
+  In 2022, I earned a Master’s degree in Computer Science from the National University of Defense Technology. 
+  Following my graduation, I joined the Visual Intelligence Department at Meituan. 
+  Presently, I am primarily responsible for the training and algorithmic innovation of the foundational model in AIGC.
+avatar: /assets/profile.jpg

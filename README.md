@@ -39,6 +39,8 @@
 
 I earned my Master's degree in Computer Science from the National University of Defense Technology in 2022. Following my graduation, I joined the Visual Intelligence Department at Meituan. My current work is centered on pioneering research in multi-modal understanding and the generation of images, videos, and 3D content.
 
+*Last updated: 2024.8.1*
+
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
 - Master's Degree in Computer Science, National University of Defense Technology, 2019-2022

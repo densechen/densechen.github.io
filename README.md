@@ -74,3 +74,5 @@ In 2022, I earned a Master's degree in Computer Science from the National Univer
 8. *Dengsheng Chen*, Yuanlong Yu, and Xiang Gao. Semi-supervised deep learning framework for monocular visual odometry. 2019. [paper](https://copland.udel.edu/~ghuang/iros19-vins-workshop/papers/01.pdf)
 9. *Dengsheng Chen*, Yuanlong Yu, and Zhiyong Huang. Online memory learning for active object recognition. In 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), pages 2914–2919. IEEE, 2019. [paper](https://ieeexplore.ieee.org/document/8961612)
 10. *Dengsheng Chen*, Wenxi Liu, You Huang, Tong Tong, and Yuanlong Yu. Enhancement mask for hippocampus detection and segmentation. In 2018 IEEE International Conference on Information and Automation (ICIA), pages 455–460. IEEE, 2018. [paper](https://ieeexplore.ieee.org/document/8812458)
+
+<img src="https://raw.githubusercontent.com/densechen/densechen.github.io/master/assets/profile.jpg" style="width: 100%;">

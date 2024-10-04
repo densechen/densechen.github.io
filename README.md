@@ -55,7 +55,7 @@ I earned my Master's degree in Computer Science from the National University of 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Preprint & Publication
 
-1. "Emergent Abilities of Diffusion Models." **2024.7**
+1. *Dengsheng Chen*, Jie Hu, Xiaoming Wei, and Enhua Wu. Denoising with a Joint-Embedding Predictive Architecture. 
 2. *Dengsheng Chen*, Jie Hu, Xiaoming Wei, and Enhua Wu. Fine-gained Zero-shot Video Sampling. arXiv preprint arXiv:2407.21475, 2024 [paper](https://arxiv.org/abs/2407.21475) [code](https://github.com/densechen/zss) [homepage](https://densechen.github.io/zss/)
 3. *Dengsheng Chen*, Jie Hu, Xiaoming Wei, and Enhua Wu. Deformable 3D Shape Diffusion Model. arXiv preprint arXiv:2407.21428, 2024 [paper](https://arxiv.org/abs/2407.21428)
 4. *Dengsheng Chen*, Xiaoming Wei, and Xiaolin Wei. Animating general image with large visual motion model. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 7131–7140, 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Animating_General_Image_with_Large_Visual_Motion_Model_CVPR_2024_paper.pdf) [code](https://github.com/densechen/LVMM) [homepage](densechen.github.io/LVMM)

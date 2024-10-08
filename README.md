@@ -37,9 +37,9 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> About Me
 
-I earned my Master's degree in Computer Science from the National University of Defense Technology in 2022. Following my graduation, I joined the Visual Intelligence Department at Meituan. My current work is centered on pioneering research in multi-modal understanding and the generation of images, videos, and 3D content.
+I earned my Master's in Computer Science from the National University of Defense Technology in 2022. Following my graduation, I joined the Visual Intelligence Department at Meituan. My current work is centered on pioneering research in multi-modal understanding and generating images, videos, and 3D content.
 
-*Last updated: 2024.8.1*
+*Last updated: 2024.10.8*
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -71,5 +71,3 @@ I earned my Master's degree in Computer Science from the National University of 
 14. *Dengsheng Chen*, Yuanlong Yu, and Xiang Gao. Semi-supervised deep learning framework for monocular visual odometry. 2019. [paper](https://copland.udel.edu/~ghuang/iros19-vins-workshop/papers/01.pdf) [code](https://github.com/magiratex34/deform_tracking)
 15. *Dengsheng Chen*, Yuanlong Yu, and Zhiyong Huang. Online memory learning for active object recognition. In 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), pages 2914–2919. IEEE, 2019. [paper](https://ieeexplore.ieee.org/document/8961612)
 16. *Dengsheng Chen*, Wenxi Liu, You Huang, Tong Tong, and Yuanlong Yu. Enhancement mask for hippocampus detection and segmentation. In 2018 IEEE International Conference on Information and Automation (ICIA), pages 455–460. IEEE, 2018. [paper](https://ieeexplore.ieee.org/document/8812458)
-
-<img src="https://raw.githubusercontent.com/densechen/densechen.github.io/master/assets/profile.jpg" style="width: 100%;">

@@ -37,23 +37,23 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> About Me
 
-Focus on: Multimodal generation and understanding model, Text to image/video/audio/3D generation.
+I specialize in the unification of multimodal understanding and generative models, with a primary focus on advancing the capabilities of autoregressive models in generating and comprehending continuous data such as images, videos, and 3D content. Additionally, I have conducted extensive research in areas including AIGC, federated learning, and robotics, and have published several papers at prestigious conferences in these fields.
 
-*Last updated: 2024.11.25*
+*Last updated: 2024.12.05*
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Educations
 
 - Master's Degree in Computer Science, National University of Defense Technology, 2019-2022
 - Bachelor's Degree in Computer Science, Fuzhou University, 2015-2019
 
-## <img src="assets/briefcase-solid.svg" width="30px"> Experience
+## <img src="assets/briefcase-solid.svg" width="30px"> Experiences
 
-- **Meituan, AI Researcher** (2022.6~Present). AIGC&MM: Image/Video/3D generation and understanding.
+- **Meituan, AI Researcher** (2022.6~2024.11). AIGC&MM: Image/Video/3D generation and understanding.
 - **ByteDance, AI Intern** (2021.1~2021.12). Federated learning: Algorithm optimization and federated learning system.
 - **Ecovacs Nanjing AI Research Institute, AI Intern** (2019.1~2019.8). SLAM: Dense indoor environment construction for the sweeping robot.
 - **Tencent AI Lab, AI Intern** (2018.6~2018.12). Depth fusion: 3D face reconstruction from iPhone depth camera.
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> Preprint & Publication
+## <img src="assets/project-diagram-solid.svg" width="30px"> Preprints & Publications
 
 - 🔥 *Dengsheng Chen*, Jie Hu, Tiezhu Yue, and Xiaoming Wei. High-Resolution Image Synthesis via Next-Token Prediction. arXiv preprint arXiv:2411.14808, 2024. [paper](https://arxiv.org/pdf/2411.14808) [code](https://github.com/D-JEPA/T2I) [homepage](https://d-jepa.github.io/t2i)
 - 🔥 *Dengsheng Chen*, Jie Hu, Xiaoming Wei, and Enhua Wu. Denoising with a Joint-Embedding Predictive Architecture. arXiv preprint arXiv:2410.03755, 2024. [paper](https://arxiv.org/pdf/2410.03755) [code](https://github.com/D-JEPA/imagenet) [homepage](https://d-jepa.github.io/)
@@ -64,7 +64,6 @@ Focus on: Multimodal generation and understanding model, Text to image/video/aud
 - *Dengsheng Chen*, Jie Hu, Vince Junkai Tan, Xiaoming Wei, and Enhua Wu. Elastic aggregation for federated optimization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 12187–12197, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Elastic_Aggregation_for_Federated_Optimization_CVPR_2023_paper.pdf) [code](https://github.com/FederalLab/OpenFed/blob/main/openfed/optim/elastic.py)
 - *Dengsheng Chen*, Vince Junkai Tan, Zhilin Lu, Enhua Wu, and Jie Hu. OpenFed: A comprehensive and versatile open-source federated learning framework. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 5018–5026, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/papers/Chen_OpenFed_A_Comprehensive_and_Versatile_Open-Source_Federated_Learning_Framework_CVPRW_2023_paper.pdf) [code](https://github.com/FederalLab/OpenFed)
 - *Dengsheng Chen*, Jie Hu, Wenwen Qiang, Xiaoming Wei, and Enhua Wu. Rethinking skip connection model as a learnable Markov chain. In The Eleventh International Conference on Learning Representations. [paper](https://openreview.net/pdf?id=yQdBtFfleh6) [code](https://github.com/densechen/penal-connection)
-- "Improved Squeeze-and-Excitation Networks by Eliminating Disharmony from Collaboration with Normalization." **2022.12**
 - *Dengsheng Chen*, Jun Li, and Kai Xu. Arelu: Attention-based rectified linear unit. arXiv preprint arXiv:2006.13858, 2020. [paper](https://arxiv.org/abs/2006.13858) [code](https://github.com/densechen/AReLU)
 - *Dengsheng Chen*, Haowen Deng, Jun Li, Duo Li, Yao Duan, and Kai Xu. Potential convolution: Embedding point clouds into potential fields. arXiv preprint arXiv:2104.01754, 2021. [paper](https://arxiv.org/abs/2104.01754)
 - *Dengsheng Chen*, Jun Li, Zheng Wang, and Kai Xu. Learning canonical shape space for category-level 6d object pose and size estimation. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pages 11973–11982, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) [code](https://github.com/densechen/CASS)

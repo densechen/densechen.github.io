@@ -1,0 +1,10 @@
+/* Hide the sidebar */
+.sidebar {
+   display: none;
+}
+
+/* Adjust the main content area if necessary */
+.main-content {
+  width: 100%;
+  margin: 0;
+}

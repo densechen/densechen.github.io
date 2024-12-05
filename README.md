@@ -48,7 +48,17 @@ I specialize in the unification of multimodal understanding and generative model
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Experiences
 
-- **Meituan, AI Researcher** (2022.6~2024.11). AIGC&MM: Image/Video/3D generation and understanding.
+- **Meituan, AI Researcher** (2022.6~2024.11).
+  1. **Model Development and Training:**
+     - Played a pivotal role in the initial training of text-to-image/video foundation models.
+     - Transitioned towards creating a cohesive multimodal model architecture that leverages autoregressive models for both generation and understanding tasks.
+  2. **DataCuration Framework:**
+     - Initiated and significantly contributed to the development of a versatile DataCuration framework.
+     - Designed the framework to handle image and video data, featuring a unified data packaging format and a user-friendly front-end visualization interface.
+     - Enhanced the framework with capabilities for data captioning and filtering, supporting advanced text-to-image/video generation processes.
+  3. **Innovative Applications in Creative Industries:**
+     - Explored and harnessed the potential of SD (Stable Diffusion) and SVD (Singular Value Decomposition) technologies.
+     - Developed practical applications, including dynamic product imagery and content generation with distinctive identifiers, targeting intelligent creative business solutions.
 - **ByteDance, AI Intern** (2021.1~2021.12). Federated learning: Algorithm optimization and federated learning system.
 - **Ecovacs Nanjing AI Research Institute, AI Intern** (2019.1~2019.8). SLAM: Dense indoor environment construction for the sweeping robot.
 - **Tencent AI Lab, AI Intern** (2018.6~2018.12). Depth fusion: 3D face reconstruction from iPhone depth camera.

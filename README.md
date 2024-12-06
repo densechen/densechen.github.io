@@ -37,9 +37,9 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> About Me
 
-I specialize in the unification of multimodal understanding and generative models, with a primary focus on advancing the capabilities of autoregressive models in generating and comprehending continuous data such as images, videos, and 3D content. Additionally, I have conducted extensive research in areas including AIGC, federated learning, and robotics, and have published several papers at prestigious conferences in these fields.
+I specialize in the unification of multimodal understanding and generative models, with a primary focus on advancing the capabilities of autoregressive models in generating and comprehending continuous data such as images, videos, and 3D content. Furthermore, I have extensive experience in large-scale cluster training (ranging from hundreds to thousands of GPUs) and have been responsible for training foundational text-to-image/video models. Additionally, I have conducted extensive research in areas including AIGC, federated learning, and robotics, and have published several papers at prestigious conferences in these fields.
 
-*Last updated: 2024.12.05*
+*Last updated: 2024.12.06*
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Educations
 
@@ -57,7 +57,7 @@ I specialize in the unification of multimodal understanding and generative model
      - Designed the framework to handle image and video data, featuring a unified data packaging format and a user-friendly front-end visualization interface.
      - Enhanced the framework with capabilities for data captioning and filtering, supporting advanced text-to-image/video generation processes.
   3. **Innovative Applications in Creative Industries:**
-     - Explored and harnessed the potential of SD (Stable Diffusion) and SVD (Singular Value Decomposition) technologies.
+     - Explored and harnessed the potential of SD and SVD technologies.
      - Developed practical applications, including dynamic product imagery and content generation with distinctive identifiers, targeting intelligent creative business solutions.
 - **ByteDance, AI Intern** (2021.1~2021.12). Federated learning: Algorithm optimization and federated learning system.
 - **Ecovacs Nanjing AI Research Institute, AI Intern** (2019.1~2019.8). SLAM: Dense indoor environment construction for the sweeping robot.

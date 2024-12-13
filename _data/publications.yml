@@ -123,6 +123,16 @@ main:
     image: ./assets/teaser/potential.png
     others: Recently, various convolutions based on continuous or discrete kernels for point cloud processing have been widely studied, and achieve impressive performance in many applications, such as shape classification, scene segmentation and so on. However, they still suffer from some drawbacks. For continuous kernels, the inaccurate estimation of the kernel weights constitutes a bottleneck for further improving the performance; while for discrete ones, the kernels represented as the points located in the 3D space are lack of rich geometry information. In this work, rather than defining a continuous or discrete kernel, we directly embed convolutional kernels into the learnable potential fields, giving rise to potential convolution. It is convenient for us to define various potential functions for potential convolution which can generalize well to a wide range of tasks. Specifically, we provide two simple yet effective potential functions via point-wise convolution operations. Comprehensive experiments demonstrate the effectiveness of our method, which achieves superior performance on the popular 3D shape classification and scene segmentation benchmarks compared with other state-of-the-art point convolution methods.
 
+  - title: "Deformable object tracking with gated fusion"
+    authors: Wenxi Liu, Yibing Song, <strong>Dengsheng Chen</strong>, Shengfeng He, Yuanlong Yu, Tao Yan, Gehard P Hancke, and Rynson WH Lau
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing, 28(8):3766–3777, 2019.
+    pdf: https://arxiv.org/abs/1809.10417
+    code: https://github.com/magiratex34/deform_tracking
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/tracking.bib
+    image: ./assets/teaser/tracking.png
+    others: The tracking-by-detection framework receives growing attentions through the integration with the Convolutional Neural Networks (CNNs). Existing tracking-by-detection based methods, however, fail to track objects with severe appearance variations. This is because the traditional convolutional operation is performed on fixed grids, and thus may not be able to find the correct response while the object is changing pose or under varying environmental conditions. In this paper, we propose a deformable convolution layer to enrich the target appearance representations in the tracking-by-detection framework. We aim to capture the target appearance variations via deformable convolution, which adaptively enhances its original features. In addition, we also propose a gated fusion scheme to control how the variations captured by the deformable convolution affect the original appearance. The enriched feature representation through deformable convolution facilitates the discrimination of the CNN classifier on the target object and background. Extensive experiments on the standard benchmarks show that the proposed tracker performs favorably against state-of-the-art methods.
+
   # - title: "High-Resolution Image Synthesis via Next-Token Prediction"
   #   authors: <strong>Dengsheng Chen</strong>, Jie Hu, Tiezhu Yue, and Xiaoming Wei
   #   conference_short: ArXiV

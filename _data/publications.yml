@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2411.14808
     code: https://github.com/D-JEPA/T2I
     page: https://d-jepa.github.io/t2i
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HqCeCQWLXXsJ:scholar.google.com/&output=citation&scisdr=ClF9r6fJEKuah-HiKc4:AFWwaeYAAAAAZ1vkMc6T9dbDlkRyCOo1UwKRS98&scisig=AFWwaeYAAAAAZ1vkMTXsZ2yic4fMbv66QX3EiBw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://densechen.github.io/_data/bibtex/high-resolution.bib
     image: ./assets/teaser/high-resolution.png
     notes: 🔥🔥🔥
     others: Denoising with a Joint-Embedding Predictive Architecture (D-JEPA), an autoregressive model, has demonstrated outstanding performance in class-conditional image generation. However, the application of next-token prediction in high-resolution text-to-image generation remains underexplored. In this paper, we introduce D-JEPA·T2I, an extension of D-JEPA incorporating flow matching loss, designed to enable data-efficient continuous resolution learning. D-JEPA·T2I leverages a multimodal visual transformer to effectively integrate textual and visual features and adopts Visual Rotary Positional Embedding (VoPE) to facilitate continuous resolution learning. Furthermore, we devise a data feedback mechanism that significantly enhances data utilization efficiency. For the first time, we achieve state-of-the-art high-resolution image synthesis via next-token prediction.
@@ -19,7 +19,7 @@ main:
     pdf: https://arxiv.org/pdf/2410.03755
     code: https://github.com/D-JEPA/imagenet
     page: https://d-jepa.github.io/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:d5PWLLDtlSAJ:scholar.google.com/&output=citation&scisdr=ClF9r6fJEKuah-HglJs:AFWwaeYAAAAAZ1vmjJv3y9qjDlEbKc9IN24oKpA&scisig=AFWwaeYAAAAAZ1vmjHb4LTUJ8M0Lfz9VI9zwHY4&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://densechen.github.io/_data/bibtex/denoising.bib
     notes: 🔥🔥
     image: ./assets/teaser/denoising.png
     others: Joint-embedding predictive architectures (JEPAs) have shown substantial promise in self-supervised representation learning, yet their application in generative modeling remains underexplored. Conversely, diffusion models have demonstrated significant efficacy in modeling arbitrary probability distributions. In this paper, we introduce Denoising with a Joint-Embedding Predictive Architecture (DJEPA), pioneering the integration of JEPA within generative modeling. By recognizing JEPA as a form of masked image modeling, we reinterpret it as a generalized next-token prediction strategy, facilitating data generation in an autoregressive manner. Furthermore, we incorporate diffusion loss to model the pertoken probability distribution, enabling data generation in a continuous space. We also adapt flow matching loss as an alternative to diffusion loss, thereby enhancing the flexibility of D-JEPA. Empirically, with increased GFLOPs, D-JEPA consistently achieves lower FID scores with fewer training epochs, indicating its good scalability. Our base, large, and huge models outperform all previous generative models across all scales on ImageNet conditional generation benchmarks. Beyond image generation, D-JEPA is well-suited for other continuous data modeling, including video and audio.
@@ -31,7 +31,7 @@ main:
     pdf: https://arxiv.org/pdf/2407.21475
     code: https://github.com/densechen/zss
     page: https://densechen.github.io/zss
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BeablV-7OyQJ:scholar.google.com/&output=citation&scisdr=ClF9r6fJEKuah-HuAAU:AFWwaeYAAAAAZ1voGAX1Pa6Tj41f6kPS38OL4v0&scisig=AFWwaeYAAAAAZ1voGPGtIM8vN7v_VD65lRwhIJ0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://densechen.github.io/_data/bibtex/fine-gained.bib
     image: ./assets/teaser/fine-gained.png
 
   - title: "Deformable 3D Shape Diffusion Model"
@@ -39,5 +39,5 @@ main:
     conference_short: ArXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2407.21428
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uRk9domQl6UJ:scholar.google.com/&output=citation&scisdr=ClF9r6fJEKuah-HupI8:AFWwaeYAAAAAZ1vovI-DQ-kPZTjqJwMv7Los3_0&scisig=AFWwaeYAAAAAZ1vovMQcIGxJVhpsLwWbEOhJlh0&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: https://densechen.github.io/_data/bibtex/deformable.bib
     image: ./assets/teaser/deformable.png

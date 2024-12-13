@@ -1,23 +1,25 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-    others: Over the past few years afterward the birth of ResNet, skip connection has become the defacto standard for the design of modern architectures due to its widespread adoption, easy optimization, and proven performance. Prior work has explained the effectiveness of the skip connection mechanism from different perspectives. In this work, we deep dive into the model's behaviors with skip connections which can be formulated as a learnable Markov chain. An efficient Markov chain is preferred as it always maps the input data to the target domain in a better way. However, while a model is explained as a Markov chain, it is not guaranteed to be optimized following an efficient Markov chain by existing SGD-based optimizers prone to getting trapped in local optimal points. In order to move towards a more efficient Markov chain, we propose a simple routine of penal connection to make any residual-like model become a learnable Markov chain. Aside from that, the penal connection can also be viewed as a particular model regularization and can be easily implemented with one line of code in the most popular deep learning frameworks. The encouraging experimental results in multi-modal translation and image recognition empirically confirm our conjecture of the learnable Markov chain view and demonstrate the superiority of the proposed penal connection.
+  - title: "High-Resolution Image Synthesis via Next-Token Prediction"
+    authors: <strong>Dengsheng Chen<\strong>, Jie Hu, Tiezhu Yue, and Xiaoming Wei
+    conference_short: ArXiV
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2411.14808
+    code: https://github.com/D-JEPA/T2I
+    page: https://d-jepa.github.io/t2i
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HqCeCQWLXXsJ:scholar.google.com/&output=citation&scisdr=ClF9r6fJEKuah-HiKc4:AFWwaeYAAAAAZ1vkMc6T9dbDlkRyCOo1UwKRS98&scisig=AFWwaeYAAAAAZ1vkMTXsZ2yic4fMbv66QX3EiBw&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/teaser/high-resolution.png
+    notes: 🔥🔥🔥
+    others: Denoising with a Joint-Embedding Predictive Architecture (D-JEPA), an autoregressive model, has demonstrated outstanding performance in class-conditional image generation. However, the application of next-token prediction in high-resolution text-to-image generation remains underexplored. In this paper, we introduce D-JEPA·T2I, an extension of D-JEPA incorporating flow matching loss, designed to enable data-efficient continuous resolution learning. D-JEPA·T2I leverages a multimodal visual transformer to effectively integrate textual and visual features and adopts Visual Rotary Positional Embedding (VoPE) to facilitate continuous resolution learning. Furthermore, we devise a data feedback mechanism that significantly enhances data utilization efficiency. For the first time, we achieve state-of-the-art high-resolution image synthesis via next-token prediction.
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Denoising with a Joint-Embedding Predictive Architecture"
+    authors: <strong>Dengsheng Chen<\strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
+    conference_short: ArXiv
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2410.03755
+    code: https://github.com/D-JEPA/imagenet
+    page: https://d-jepa.github.io/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:d5PWLLDtlSAJ:scholar.google.com/&output=citation&scisdr=ClF9r6fJEKuah-HglJs:AFWwaeYAAAAAZ1vmjJv3y9qjDlEbKc9IN24oKpA&scisig=AFWwaeYAAAAAZ1vmjHb4LTUJ8M0Lfz9VI9zwHY4&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    notes: 🔥🔥
+    image: ./assets/teaser/denoising.png
+    others: Joint-embedding predictive architectures (JEPAs) have shown substantial promise in self-supervised representation learning, yet their application in generative modeling remains underexplored. Conversely, diffusion models have demonstrated significant efficacy in modeling arbitrary probability distributions. In this paper, we introduce Denoising with a Joint-Embedding Predictive Architecture (DJEPA), pioneering the integration of JEPA within generative modeling. By recognizing JEPA as a form of masked image modeling, we reinterpret it as a generalized next-token prediction strategy, facilitating data generation in an autoregressive manner. Furthermore, we incorporate diffusion loss to model the pertoken probability distribution, enabling data generation in a continuous space. We also adapt flow matching loss as an alternative to diffusion loss, thereby enhancing the flexibility of D-JEPA. Empirically, with increased GFLOPs, D-JEPA consistently achieves lower FID scores with fewer training epochs, indicating its good scalability. Our base, large, and huge models outperform all previous generative models across all scales on ImageNet conditional generation benchmarks. Beyond image generation, D-JEPA is well-suited for other continuous data modeling, including video and audio.

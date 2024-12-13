@@ -41,3 +41,13 @@ main:
     pdf: https://arxiv.org/pdf/2407.21428
     bibtex: https://github.com/densechen/densechen.github.io/_data/bibtex/deformable.bib
     image: ./assets/teaser/deformable.png
+
+  - title: "Animating general image with large visual motion model"
+    authors: <strong>Dengsheng Chen</strong>, Xiaoming Wei, and Xiaolin Wei
+    conference_short: CVPR
+    conference: In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages 7131–7140, 2024.
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Animating_General_Image_with_Large_Visual_Motion_Model_CVPR_2024_paper.pdf
+    code: https://github.com/densechen/LVMM
+    page: https://densechen.github.io/LVMM
+    bibtex: https://github.com/densechen/densechen.github.io/_data/bibtex/animating.bib
+    image: ./assets/teaser/animating.png

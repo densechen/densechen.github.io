@@ -33,6 +33,7 @@ main:
     page: https://densechen.github.io/zss
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/fine-gained.bib
     image: ./assets/teaser/fine-gained.png
+    others: Incorporating a temporal dimension into pretrained image diffusion models for video generation is a prevalent approach. However, this method is computationally demanding and necessitates large-scale video datasets. More critically, the heterogeneity between image and video datasets often results in catastrophic forgetting of the image expertise. Recent attempts to directly extract video snippets from image diffusion models have somewhat mitigated these problems. Nevertheless, these methods can only generate brief video clips with simple movements and fail to capture fine-grained motion or non-grid deformation. In this paper, we propose a novel Zero-Shot video Sampling algorithm, denoted as ZS2, capable of directly sampling high-quality video clips from existing image synthesis methods, such as Stable Diffusion, without any training or optimization. Specifically, ZS2 utilizes the dependency noise model and temporal momentum attention to ensure content consistency and animation coherence, respectively. This ability enables it to excel in related tasks, such as conditional and context-specialized video generation and instruction-guided video editing. Experimental results demonstrate that ZS2 achieves state-of-the-art performance in zero-shot video generation, occasionally outperforming recent supervised methods.
 
   - title: "Deformable 3D Shape Diffusion Model"
     authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
@@ -41,6 +42,7 @@ main:
     pdf: https://arxiv.org/pdf/2407.21428
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/deformable.bib
     image: ./assets/teaser/deformable.png
+    others: The Gaussian diffusion model, initially designed for image generation, has recently been adapted for 3D point cloud generation. However, these adaptations have not fully considered the intrinsic geometric characteristics of 3D shapes, thereby constraining the diffusion model's potential for 3D shape manipulation. To address this limitation, we introduce a novel deformable 3D shape diffusion model that facilitates comprehensive 3D shape manipulation, including point cloud generation, mesh deformation, and facial animation. Our approach innovatively incorporates a differential deformation kernel, which deconstructs the generation of geometric structures into successive nonrigid deformation stages. By leveraging a probabilistic diffusion model to simulate this step-by-step process, our method provides a versatile and efficient solution for a wide range of applications, spanning from graphics rendering to facial expression animation. Empirical evidence highlights the effectiveness of our approach, demonstrating state-of-the-art performance in point cloud generation and competitive results in mesh deformation. Additionally, extensive visual demonstrations reveal the significant potential of our approach for practical applications. Our method presents a unique pathway for advancing 3D shape manipulation and unlocking new opportunities in the realm of virtual reality.
 
   - title: "Animating general image with large visual motion model"
     authors: <strong>Dengsheng Chen</strong>, Xiaoming Wei, and Xiaolin Wei
@@ -51,5 +53,4 @@ main:
     page: https://densechen.github.io/LVMM
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/animating.bib
     image: ./assets/teaser/animating.png
-
-    
+    others: We present the pioneering Large Visual Motion Model (LVMM), meticulously engineered to analyze the intrinsic dynamics encapsulated within real-world imagery. Our model, fortified with a wealth of prior knowledge extracted from billions of image pairs, demonstrates promising results in predicting a diverse spectrum of scene dynamics. As a result, it can infuse any generic image with authentic dynamic effects, enhancing its visual allure.

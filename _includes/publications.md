@@ -2,9 +2,7 @@
 
 <div class="publications">
   <ol class="bibliography">
-
   {% for link in site.data.publications.main %}
-
   <li>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -38,25 +36,60 @@
         </div>
       </div>
     </div>
+    
     <style>
-      /* 打印时隐藏link.others部分 */
       @media print {
         .others-block {
           display: none;
         }
       }
+      
+      /* Day & Night Mode Support */
+      .others-block {
+        margin-top: 20px;
+        padding: 15px;
+        background-color: #f8f9fa;
+        border-left: 5px solid #007bff;
+        font-size: 13px;
+        line-height: 1.6;
+      }
+
+      .others-block .abstract-text {
+        color: #555;
+        font-style: italic;
+      }
+
+      /* Light Theme */
+      @media (prefers-color-scheme: light) {
+        .others-block {
+          background-color: #f8f9fa;
+          color: #333;
+        }
+        .others-block .abstract-text {
+          color: #555;
+        }
+      }
+
+      /* Dark Theme */
+      @media (prefers-color-scheme: dark) {
+        .others-block {
+          background-color: #333;
+          color: #ccc;
+        }
+        .others-block .abstract-text {
+          color: #bbb;
+        }
+      }
     </style>
 
     {% if link.others %}
-    <div class="others-block" style="margin-top: 20px; padding: 15px; background-color: #f8f9fa; border-left: 5px solid #007bff; font-size: 13px; line-height: 1.6;">
+    <div class="others-block">
       <strong style="font-size: 14px; color: #007bff;">Abstract:</strong>
-      <div style="margin-top: 10px; color: #555; font-style: italic;">{{ link.others }}</div>
+      <div class="abstract-text">{{ link.others }}</div>
     </div>
     {% endif %}
   </li>
   <br>
-
   {% endfor %}
-
   </ol>
 </div>

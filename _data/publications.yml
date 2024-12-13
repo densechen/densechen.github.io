@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2411.14808
     code: https://github.com/D-JEPA/T2I
     page: https://d-jepa.github.io/t2i
-    bibtex: https://github.com/densechen/densechen.github.io/_data/bibtex/high-resolution.bib
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/high-resolution.bib
     image: ./assets/teaser/high-resolution.png
     notes: 🔥🔥🔥
     others: Denoising with a Joint-Embedding Predictive Architecture (D-JEPA), an autoregressive model, has demonstrated outstanding performance in class-conditional image generation. However, the application of next-token prediction in high-resolution text-to-image generation remains underexplored. In this paper, we introduce D-JEPA·T2I, an extension of D-JEPA incorporating flow matching loss, designed to enable data-efficient continuous resolution learning. D-JEPA·T2I leverages a multimodal visual transformer to effectively integrate textual and visual features and adopts Visual Rotary Positional Embedding (VoPE) to facilitate continuous resolution learning. Furthermore, we devise a data feedback mechanism that significantly enhances data utilization efficiency. For the first time, we achieve state-of-the-art high-resolution image synthesis via next-token prediction.
@@ -19,7 +19,7 @@ main:
     pdf: https://arxiv.org/pdf/2410.03755
     code: https://github.com/D-JEPA/imagenet
     page: https://d-jepa.github.io/
-    bibtex: https://github.com/densechen/densechen.github.io/_data/bibtex/denoising.bib
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/denoising.bib
     notes: 🔥🔥
     image: ./assets/teaser/denoising.png
     others: Joint-embedding predictive architectures (JEPAs) have shown substantial promise in self-supervised representation learning, yet their application in generative modeling remains underexplored. Conversely, diffusion models have demonstrated significant efficacy in modeling arbitrary probability distributions. In this paper, we introduce Denoising with a Joint-Embedding Predictive Architecture (DJEPA), pioneering the integration of JEPA within generative modeling. By recognizing JEPA as a form of masked image modeling, we reinterpret it as a generalized next-token prediction strategy, facilitating data generation in an autoregressive manner. Furthermore, we incorporate diffusion loss to model the pertoken probability distribution, enabling data generation in a continuous space. We also adapt flow matching loss as an alternative to diffusion loss, thereby enhancing the flexibility of D-JEPA. Empirically, with increased GFLOPs, D-JEPA consistently achieves lower FID scores with fewer training epochs, indicating its good scalability. Our base, large, and huge models outperform all previous generative models across all scales on ImageNet conditional generation benchmarks. Beyond image generation, D-JEPA is well-suited for other continuous data modeling, including video and audio.
@@ -31,7 +31,7 @@ main:
     pdf: https://arxiv.org/pdf/2407.21475
     code: https://github.com/densechen/zss
     page: https://densechen.github.io/zss
-    bibtex: https://github.com/densechen/densechen.github.io/_data/bibtex/fine-gained.bib
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/fine-gained.bib
     image: ./assets/teaser/fine-gained.png
 
   - title: "Deformable 3D Shape Diffusion Model"
@@ -39,7 +39,7 @@ main:
     conference_short: ArXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2407.21428
-    bibtex: https://github.com/densechen/densechen.github.io/_data/bibtex/deformable.bib
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/deformable.bib
     image: ./assets/teaser/deformable.png
 
   - title: "Animating general image with large visual motion model"
@@ -49,5 +49,7 @@ main:
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Animating_General_Image_with_Large_Visual_Motion_Model_CVPR_2024_paper.pdf
     code: https://github.com/densechen/LVMM
     page: https://densechen.github.io/LVMM
-    bibtex: https://github.com/densechen/densechen.github.io/_data/bibtex/animating.bib
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/animating.bib
     image: ./assets/teaser/animating.png
+
+    

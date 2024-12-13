@@ -1,7 +1,7 @@
 main:
 
   - title: "High-Resolution Image Synthesis via Next-Token Prediction"
-    authors: <strong>Dengsheng Chen<\strong>, Jie Hu, Tiezhu Yue, and Xiaoming Wei
+    authors: <strong>Dengsheng Chen</strong>, Jie Hu, Tiezhu Yue, and Xiaoming Wei
     conference_short: ArXiV
     conference: Preprint
     pdf: https://arxiv.org/pdf/2411.14808
@@ -13,7 +13,7 @@ main:
     others: Denoising with a Joint-Embedding Predictive Architecture (D-JEPA), an autoregressive model, has demonstrated outstanding performance in class-conditional image generation. However, the application of next-token prediction in high-resolution text-to-image generation remains underexplored. In this paper, we introduce D-JEPA·T2I, an extension of D-JEPA incorporating flow matching loss, designed to enable data-efficient continuous resolution learning. D-JEPA·T2I leverages a multimodal visual transformer to effectively integrate textual and visual features and adopts Visual Rotary Positional Embedding (VoPE) to facilitate continuous resolution learning. Furthermore, we devise a data feedback mechanism that significantly enhances data utilization efficiency. For the first time, we achieve state-of-the-art high-resolution image synthesis via next-token prediction.
 
   - title: "Denoising with a Joint-Embedding Predictive Architecture"
-    authors: <strong>Dengsheng Chen<\strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
+    authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
     conference_short: ArXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2410.03755
@@ -25,7 +25,7 @@ main:
     others: Joint-embedding predictive architectures (JEPAs) have shown substantial promise in self-supervised representation learning, yet their application in generative modeling remains underexplored. Conversely, diffusion models have demonstrated significant efficacy in modeling arbitrary probability distributions. In this paper, we introduce Denoising with a Joint-Embedding Predictive Architecture (DJEPA), pioneering the integration of JEPA within generative modeling. By recognizing JEPA as a form of masked image modeling, we reinterpret it as a generalized next-token prediction strategy, facilitating data generation in an autoregressive manner. Furthermore, we incorporate diffusion loss to model the pertoken probability distribution, enabling data generation in a continuous space. We also adapt flow matching loss as an alternative to diffusion loss, thereby enhancing the flexibility of D-JEPA. Empirically, with increased GFLOPs, D-JEPA consistently achieves lower FID scores with fewer training epochs, indicating its good scalability. Our base, large, and huge models outperform all previous generative models across all scales on ImageNet conditional generation benchmarks. Beyond image generation, D-JEPA is well-suited for other continuous data modeling, including video and audio.
 
   - title: "Fine-gained Zero-shot Video Sampling"
-    authors: <strong>Dengsheng Chen<\strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
+    authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
     conference_short: ArXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2407.21475
@@ -35,7 +35,7 @@ main:
     image: ./assets/teaser/fine-gained.png
 
   - title: "Deformable 3D Shape Diffusion Model"
-    authors: <strong>Dengsheng Chen<\strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
+    authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
     conference_short: ArXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2407.21428

@@ -54,3 +54,12 @@ main:
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/animating.bib
     image: ./assets/teaser/animating.png
     others: We present the pioneering Large Visual Motion Model (LVMM), meticulously engineered to analyze the intrinsic dynamics encapsulated within real-world imagery. Our model, fortified with a wealth of prior knowledge extracted from billions of image pairs, demonstrates promising results in predicting a diverse spectrum of scene dynamics. As a result, it can infuse any generic image with authentic dynamic effects, enhancing its visual allure.
+
+  - title: "Real3d: The curious case of neural scene degeneration"
+    authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
+    conference_short: AAAI
+    conference: In Proceedings of the AAAI Conference on Artificial Intelligence, pages 1028–1036, 2024.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/27863/27751
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/degeneration.bib
+    image: ./assets/teaser/degeneration.png
+    others: Despite significant progress in utilizing pre-trained text-to-image diffusion models to guide the creation of 3D scenes, these methods often struggle to generate scenes that are sufficiently realistic, leading to 'neural scene degeneration'. In this work, we propose a new 3D scene generation model called Real3D. Specifically, Real3D designs a pipeline from a NeRF-like implicit renderer to a tetrahedrons-based explicit renderer, greatly improving the neural network's ability to generate various neural scenes. Moreover, Real3D introduces an additional discriminator to prevent neural scenes from falling into undesirable local optima, thus avoiding the degeneration phenomenon. Our experimental results demonstrate that Real3D outperforms all existing state-of-the-art text-to-3D generation methods, providing valuable insights to facilitate the development of learning-based 3D scene generation approaches.

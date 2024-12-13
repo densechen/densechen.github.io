@@ -18,8 +18,6 @@ layout: homepage
   </ul>
 </div>
 
-{% include_relative _includes/services.md %}
-
 <div id="experiences">
   <h2><img src="assets/briefcase-solid.svg" width="30px"> Experiences</h2>
 
@@ -108,5 +106,7 @@ layout: homepage
     });
   });
 </script>
+
+{% include_relative _includes/services.md %}
 
 {% include_relative _includes/publications.md %}

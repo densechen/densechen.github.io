@@ -133,6 +133,15 @@ main:
     image: ./assets/teaser/tracking.png
     others: The tracking-by-detection framework receives growing attentions through the integration with the Convolutional Neural Networks (CNNs). Existing tracking-by-detection based methods, however, fail to track objects with severe appearance variations. This is because the traditional convolutional operation is performed on fixed grids, and thus may not be able to find the correct response while the object is changing pose or under varying environmental conditions. In this paper, we propose a deformable convolution layer to enrich the target appearance representations in the tracking-by-detection framework. We aim to capture the target appearance variations via deformable convolution, which adaptively enhances its original features. In addition, we also propose a gated fusion scheme to control how the variations captured by the deformable convolution affect the original appearance. The enriched feature representation through deformable convolution facilitates the discrimination of the CNN classifier on the target object and background. Extensive experiments on the standard benchmarks show that the proposed tracker performs favorably against state-of-the-art methods.
 
+  - title: "Semi-supervised deep learning framework for monocular visual odometry"
+    authors: <strong>Dengsheng Chen</strong>, Yuanlong Yu, and Xiang Gao
+    conference_short: IROS
+    conference: International Conference on Intelligent Robots and Systems, 2019
+    pdf: https://copland.udel.edu/~ghuang/iros19-vins-workshop/papers/01.pdf
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/semi.bib
+    image: ./assets/teaser/semi.png
+    others: In the last decade, supervised deep learning approaches have extensively employed in visual odometry (VO) applications, which is not feasible in environments where labelled data is not abundant. Therefore, many unsupervised deep learning approaches based on depth map in unknown environments from unlabeled data have been proposed. In this paper, we propose a more simplify framework (Encode and Regress Network, ERNet) to generate a robust 6-DoF pose of a monocular camera with Semi-supervised learning strategy. Compared to other state of the art unsupervised deep VO methods, our framework without any assistant of depth map information can also achieve a good performance in terms of pose accuracy on KITTI dataset.
+
   # - title: "High-Resolution Image Synthesis via Next-Token Prediction"
   #   authors: <strong>Dengsheng Chen</strong>, Jie Hu, Tiezhu Yue, and Xiaoming Wei
   #   conference_short: ArXiV

@@ -151,6 +151,15 @@ main:
     image: ./assets/teaser/online.png
     others: Traditional CNN-based recognition algorithms are trained for limited labeled data, which may not perform well in a different environment due to the lack of adaptivity of the CNN networks. So the traditional CNN-based recognition algorithms can not play a good role in robot applications because the robots have to work in different environments. However, the robot can continuously perceive new images during its mission. These images contain lots of environment-related features but lack of labels. So the robots must learn the environment-related features adaptively with unlabeled data to further improve the performance of CNN-based recognition algorithms. We call this ability as active object recognition (OBR). In this paper, we designed a dynamic memory structure (DMS) which can adaptively learn the environment-related features online and embedded DMS into a VGG-16 network to implement active object recognition. We also evaluate our dynamic memory network of CIFAR-10 and CIFAR-100 classification dataset. The results show that by learning environment-related features, dynamic memory network achieves a better performance on classification accuracy. More importantly, the network can have the ability to improve itself while many times testing.
 
+  - title: "Enhancement mask for hippocampus detection and segmentation"
+    authors: <strong>Dengsheng Chen</strong>, Wenxi Liu, You Huang, Tong Tong, and Yuanlong Yu.
+    conference_short: ICIA
+    conference: In 2018 IEEE International Conference on Information and Automation (ICIA), pages 455–460. IEEE, 2018
+    pdf: https://ieeexplore.ieee.org/document/8812458
+    bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/icia.bib
+    image: ./assets/teaser/icia.png
+    others: Detection and segmentation of the hippocampal structures in volumetric brain images is a challenging problem in the area of medical imaging. In this paper, we propose a two-stage 3D fully convolutional neural network that efficiently detects and segments the hippocampal structures. In particular, our approach first localizes the hippocampus from the whole volumetric image and obtains a rough segmentation. This initial segmentation can be used an enhancement mask to extract the fine structure of the hippocampus. The proposed method has been evaluated on a public dataset and compared with state-of-the-art approaches. Results indicate the effectiveness of the proposed method, which yields mean Dice Similarity Coefficients(i.e. DSC) of 0.897 and 0.900 for the left and right hippocampus, respectively. Furthermore, extensive experiments manifest that the proposed enhancement mask layer has remarkable benefits for accelerating training process and obtaining more accurate segmentation results.
+
   # - title: "High-Resolution Image Synthesis via Next-Token Prediction"
   #   authors: <strong>Dengsheng Chen</strong>, Jie Hu, Tiezhu Yue, and Xiaoming Wei
   #   conference_short: ArXiV

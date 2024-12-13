@@ -18,12 +18,14 @@ layout: homepage
   </ul>
 </div>
 
+{% include_relative _includes/services.md %}
+
 <div id="experiences">
   <h2><img src="assets/briefcase-solid.svg" width="30px"> Experiences</h2>
 
   <!-- Meituan -->
   <div class="experience">
-    <h3><strong>Meituan, AI Researcher</strong> (June 2022 – November 2024)</h3>
+    <h3 class="experience-title"><strong>Meituan, AI Researcher</strong> (June 2022 – November 2024)</h3>
     <div class="experience-details">
       <h4>Model Development and Training:</h4>
       <ul>
@@ -46,7 +48,7 @@ layout: homepage
 
   <!-- ByteDance -->
   <div class="experience">
-    <h3><strong>ByteDance, AI Intern</strong> (January 2021 – December 2021)</h3>
+    <h3 class="experience-title"><strong>ByteDance, AI Intern</strong> (January 2021 – December 2021)</h3>
     <div class="experience-details">
       <ul>
         <li>Contributed to algorithm optimization and the development of federated learning systems, enhancing privacy-preserving machine learning techniques and optimizing distributed model training.</li>
@@ -56,7 +58,7 @@ layout: homepage
 
   <!-- Ecovacs Nanjing AI Research Institute -->
   <div class="experience">
-    <h3><strong>Ecovacs Nanjing AI Research Institute, AI Intern</strong> (January 2019 – August 2019)</h3>
+    <h3 class="experience-title"><strong>Ecovacs Nanjing AI Research Institute, AI Intern</strong> (January 2019 – August 2019)</h3>
     <div class="experience-details">
       <ul>
         <li>Worked on Simultaneous Localization and Mapping (SLAM) for autonomous robots, focusing on dense indoor environment construction for advanced sweeping robots, improving navigation and efficiency.</li>
@@ -66,7 +68,7 @@ layout: homepage
 
   <!-- Tencent AI Lab -->
   <div class="experience">
-    <h3><strong>Tencent AI Lab, AI Intern</strong> (June 2018 – December 2018)</h3>
+    <h3 class="experience-title"><strong>Tencent AI Lab, AI Intern</strong> (June 2018 – December 2018)</h3>
     <div class="experience-details">
       <ul>
         <li>Developed depth fusion techniques for 3D face reconstruction using the iPhone depth camera, contributing to improvements in facial recognition and augmented reality applications.</li>
@@ -75,7 +77,36 @@ layout: homepage
   </div>
 </div>
 
+<!-- Add JavaScript and CSS -->
+<style>
+  .experience-details {
+    display: none;
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  .experience-title {
+    cursor: pointer;
+    margin: 10px 0;
+  }
+  .experience-title:hover {
+    color: #007bff;
+  }
+</style>
+
+<script>
+  // Add click event to experience titles to toggle visibility of details
+  const experienceTitles = document.querySelectorAll('.experience-title');
+
+  experienceTitles.forEach(title => {
+    title.addEventListener('click', function() {
+      const details = this.nextElementSibling; // Get the corresponding details div
+      if (details.style.display === 'block') {
+        details.style.display = 'none'; // Hide if currently shown
+      } else {
+        details.style.display = 'block'; // Show if currently hidden
+      }
+    });
+  });
+</script>
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

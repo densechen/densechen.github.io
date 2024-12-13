@@ -38,6 +38,15 @@
         </div>
       </div>
     </div>
+    <style>
+      /* 打印时隐藏link.others部分 */
+      @media print {
+        .others-block {
+          display: none;
+        }
+      }
+    </style>
+
     {% if link.others %}
     <div class="others-block" style="margin-top: 20px; padding: 15px; background-color: #f8f9fa; border-left: 5px solid #007bff; font-size: 13px; line-height: 1.6;">
       <strong style="font-size: 14px; color: #007bff;">Abstract:</strong>

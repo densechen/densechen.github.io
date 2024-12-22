@@ -6,4 +6,4 @@ Additionally, my research spans areas like AIGC, federated learning, and robotic
 
 Feel free to reach out via email for collaboration or inquiries.
 
-<p style="text-align: right;"> <em>Last updated: December 22, 2024</em> </p>
+<!-- <p style="text-align: right;"> <em>Last updated: December 22, 2024</em> </p> -->

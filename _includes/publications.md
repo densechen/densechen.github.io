@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><autocolor><p id="first-author-conference-list">
-  <!-- 自动填充每个会议的论文数量 -->
+  
 </p>
 </autocolor>
 </li>
@@ -13,7 +13,7 @@
 <h4 style="margin:15px 10px 5px;">All preprints & publications: <span id="all-count">0</span></h4>
 <ul style="margin:0 0 5px;">
 <li><autocolor><p id="conference-list">
-  <!-- 自动填充每个会议的论文数量 -->
+  
 </p>
 </autocolor>
 </li>
@@ -52,10 +52,8 @@
   allConferenceList.textContent = allConferenceItems.join(', ');  // 用逗号分隔并加入到页面
 </script>
 
-<!-- 插入分隔线 -->
 <hr style="border-top: 2px solid #ccc; border-radius: 5px;">
 
-<!-- 论文列表部分 -->
 <div class="publications">
   <ol class="bibliography">
   {% for link in site.data.publications.main %}

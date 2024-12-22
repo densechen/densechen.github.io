@@ -53,7 +53,7 @@
 </script>
 
 <!-- 插入分隔线 -->
-<hr style="border-top: 2px solid #ccc; border-radius: 5px;">
+<!-- <hr style="border-top: 2px solid #ccc; border-radius: 5px;"> -->
 
 <!-- 论文列表部分 -->
 <div class="publications">

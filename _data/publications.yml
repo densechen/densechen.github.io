@@ -2,7 +2,7 @@ main:
 
   - title: "High-Resolution Image Synthesis via Next-Token Prediction"
     authors: <strong>Dengsheng Chen</strong>, Jie Hu, Tiezhu Yue, and Xiaoming Wei
-    conference_short: ArXiV
+    conference_short: arXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2411.14808
     code: https://github.com/D-JEPA/T2I
@@ -14,7 +14,7 @@ main:
 
   - title: "Denoising with a Joint-Embedding Predictive Architecture"
     authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
-    conference_short: ArXiv
+    conference_short: arXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2410.03755
     code: https://github.com/D-JEPA/imagenet
@@ -26,7 +26,7 @@ main:
 
   - title: "Fine-gained Zero-shot Video Sampling"
     authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
-    conference_short: ArXiv
+    conference_short: arXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2407.21475
     code: https://github.com/densechen/zss
@@ -37,7 +37,7 @@ main:
 
   - title: "Deformable 3D Shape Diffusion Model"
     authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
-    conference_short: ArXiv
+    conference_short: arXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2407.21428
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/deformable.bib
@@ -96,7 +96,7 @@ main:
 
   - title: "Arelu: Attention-based rectified linear unit"
     authors: <strong>Dengsheng Chen</strong>, Jun Li, and Kai Xu
-    conference_short: ArXiV
+    conference_short: arXiv
     conference: Preprint
     pdf: https://arxiv.org/pdf/2006.13858
     code: https://github.com/densechen/AReLU
@@ -116,7 +116,7 @@ main:
 
   - title: "Potential convolution: Embedding point clouds into potential fields"
     authors: <strong>Dengsheng Chen</strong>, Haowen Deng, Jun Li, Duo Li, Yao Duan, and Kai Xu
-    conference_short: ArXiV
+    conference_short: arXiv
     conference: Preprint
     pdf: https://arxiv.org/abs/2104.01754
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/potential.bib
@@ -162,7 +162,7 @@ main:
 
   # - title: "High-Resolution Image Synthesis via Next-Token Prediction"
   #   authors: <strong>Dengsheng Chen</strong>, Jie Hu, Tiezhu Yue, and Xiaoming Wei
-  #   conference_short: ArXiV
+  #   conference_short: arXiv
   #   conference: Preprint
   #   pdf: https://arxiv.org/pdf/2411.14808
   #   code: https://github.com/D-JEPA/T2I

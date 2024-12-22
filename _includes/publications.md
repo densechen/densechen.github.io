@@ -1,5 +1,61 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Preprints & Publications</h2>
+## Preprints & Publications
 
+<h4 style="margin:0 10px 5px;">First author's preprints & publications: <span id="first-author-count">0</span></h4>
+
+<ul style="margin:0 0 5px;">
+<li><autocolor><p id="first-author-conference-list">
+  <!-- 自动填充每个会议的论文数量 -->
+</p>
+</autocolor>
+</li>
+</ul>
+
+<h4 style="margin:15px 10px 5px;">All preprints & publications: <span id="all-count">0</span></h4>
+<ul style="margin:0 0 5px;">
+<li><autocolor><p id="conference-list">
+  <!-- 自动填充每个会议的论文数量 -->
+</p>
+</autocolor>
+</li>
+</ul>
+
+<script>
+  // 统计功能：统计第一作者为 "Dengsheng Chen" 的论文数量，并按会议分类
+  const papers = {{ site.data.publications.main | jsonify }};
+  const firstAuthorPapers = papers.filter(paper => paper.authors && paper.authors.startsWith("<strong>Dengsheng Chen</strong>"));
+  
+  const firstAuthorConferenceCount = {};
+  firstAuthorPapers.forEach(paper => {
+    if (paper.conference_short) {
+      firstAuthorConferenceCount[paper.conference_short] = (firstAuthorConferenceCount[paper.conference_short] || 0) + 1;
+    }
+  });
+
+  const conferenceCount = {};
+  papers.forEach(paper => {
+    if (paper.conference_short) {
+      conferenceCount[paper.conference_short] = (conferenceCount[paper.conference_short] || 0) + 1;
+    }
+  });
+
+  // 更新统计信息
+  document.getElementById('first-author-count').innerText = firstAuthorPapers.length;
+  document.getElementById('all-count').innerText = papers.length;
+  
+  // 将论文信息放入一行并用逗号分隔
+  const firstAuthorConferenceList = document.getElementById('first-author-conference-list');
+  const firstAuthorConferenceItems = Object.entries(firstAuthorConferenceCount).map(([conference, count]) => `${conference}: ${count}`);
+  firstAuthorConferenceList.textContent = firstAuthorConferenceItems.join(', ');  // 用逗号分隔并加入到页面
+
+  const allConferenceList = document.getElementById('conference-list');
+  const allConferenceItems = Object.entries(conferenceCount).map(([conference, count]) => `${conference}: ${count}`);
+  allConferenceList.textContent = allConferenceItems.join(', ');  // 用逗号分隔并加入到页面
+</script>
+
+<!-- 插入分隔线 -->
+<hr style="border-top: 2px solid #ccc; border-radius: 5px;">
+
+<!-- 论文列表部分 -->
 <div class="publications">
   <ol class="bibliography">
   {% for link in site.data.publications.main %}

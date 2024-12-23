@@ -60,9 +60,9 @@
   <li>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-        {% if link.image %} 
+        {% if link.image %}
           <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-          {% if link.conference_short %} 
+          {% if link.conference_short %}
             <abbr class="badge">{{ link.conference_short }}</abbr>
           {% endif %}
         {% endif %}
@@ -93,13 +93,13 @@
     
     <style>
       @media print {
-        .others-block {
+        .abstract-block {
           display: none;
         }
       }
       
       /* Day & Night Mode Support */
-      .others-block {
+      .abstract-block {
         margin-top: 20px;
         padding: 15px;
         background-color: #f8f9fa;
@@ -108,38 +108,38 @@
         line-height: 1.6;
       }
 
-      .others-block .abstract-text {
+      .abstract-block .abstract-text {
         color: #555;
         font-style: italic;
       }
 
       /* Light Theme */
       @media (prefers-color-scheme: light) {
-        .others-block {
+        .abstract-block {
           background-color: #f8f9fa;
           color: #333;
         }
-        .others-block .abstract-text {
+        .abstract-block .abstract-text {
           color: #555;
         }
       }
 
       /* Dark Theme */
       @media (prefers-color-scheme: dark) {
-        .others-block {
+        .abstract-block {
           background-color: #333;
           color: #ccc;
         }
-        .others-block .abstract-text {
+        .abstract-block .abstract-text {
           color: #bbb;
         }
       }
     </style>
 
-    {% if link.others %}
-    <div class="others-block">
+    {% if link.abstract %}
+    <div class="abstract-block">
       <strong style="font-size: 14px; color: #007bff;">Abstract:</strong>
-      <div class="abstract-text">{{ link.others }}</div>
+      <div class="abstract-text">{{ link.abstract }}</div>
     </div>
     {% endif %}
   </li>

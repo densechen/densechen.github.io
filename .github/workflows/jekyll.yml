@@ -44,6 +44,10 @@ jobs:
           echo "/opt/hostedtoolcache/Ruby/3.3.5/x64/bin" >> $GITHUB_PATH
       - name: Confirm Ruby installation
         run: ruby -v
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

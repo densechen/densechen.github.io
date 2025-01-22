@@ -36,7 +36,7 @@ jobs:
       - name: Install ruby-build
         run: |
           git clone https://github.com/rbenv/ruby-build.git
-          PREFIX=/usr/local ./ruby-build/install.sh
+          sudo PREFIX=/usr/local ./ruby-build/install.sh
       - name: Install Ruby 3.3.5
         run: |
           ruby-build 3.3.5 /opt/hostedtoolcache/Ruby/3.3.5/x64

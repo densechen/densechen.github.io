@@ -14,8 +14,8 @@ main:
 
   - title: "Denoising with a Joint-Embedding Predictive Architecture"
     authors: <strong>Dengsheng Chen</strong>, Jie Hu, Xiaoming Wei, and Enhua Wu
-    conference_short: arXiv
-    conference: Preprint
+    conference_short: ICLR
+    conference: In The Thirteenth International Conference on Learning Representations. 
     pdf: https://arxiv.org/pdf/2410.03755
     code: https://github.com/D-JEPA/imagenet
     page: https://d-jepa.github.io/

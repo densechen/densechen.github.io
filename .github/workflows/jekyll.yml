@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Install ruby-build
         run: |
-          git clone https://github.com/rbenv/ruby-build.git
+          sudo git clone https://github.com/rbenv/ruby-build.git
           sudo PREFIX=/usr/local ./ruby-build/install.sh
       - name: Install Ruby 3.3.5
         run: |

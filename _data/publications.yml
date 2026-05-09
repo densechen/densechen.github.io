@@ -1,16 +1,16 @@
 main:
 
   - title: "Autoregression with Self-Token Prediction"
-    authors: <strong>Dengsheng Chen</strong>, etc.
-    conference_short: arXiv
-    conference: Preprint
-    pdf: https://openreview.net/pdf?id=FpGuLa3S9S
+    authors: <strong>Dengsheng Chen</strong>, Yangming Shi, and Enhua Wu
+    conference_short: ICML
+    conference: Forty-third International Conference on Machine Learning, 2026.
+    pdf: https://openreview.net/pdf?id=LEwd3HJny8
     code: https://to/be/release
     page: https://to/be/release
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/stp.bib
     image: ./assets/teaser/stp.png
     notes: 🔥🔥🔥
-    abstract: Next-token prediction has been highly effective in language, but its extension to continuous modalities is challenging, regression over correlated latents tends to collapse into near-identity mappings, while discretization via vector-quantized encoders introduces quantization artifacts. Mask-based prediction with diffusion heads mitigates these issues, yet suffers from a train–inference mismatch, inability to use key–value caching, and poor scalability to long sequences. To overcome these limitations, we propose self-token prediction, which conditions each token on ground-truth references during training, ensuring consistency with causal inference while avoiding identity collapse. This design supports key–value caching and parallel generation, enabling scalable, high-fidelity synthesis across text, audio, image, and video. Built on this paradigm, OMNIAR unifies heterogeneous modalities in a shared omni-token space, achieving efficient and high-quality generation, including real-time and theoretically endless video generation1.
+    abstract: Conventional autoregressive models achieve causality through next-token prediction, but suffer from prohibitive latency and typically underperform non-causal alternatives such as masked prediction and diffusion. We propose self-token prediction, which enables predicting a flexible number of tokens per step, and introduce SAR, the first spatially autoregressive image generator built on this paradigm. SAR delivers markedly faster inference speeds and consistently outperforms prior autoregressive baselines, achieving performance on par with state-of-the-art non-causal models. Our findings highlight self-token prediction as a crucial step toward a high-quality autoregressive paradigm for visual generation.
 
 
   - title: "High-Resolution Image Synthesis via Next-Token Prediction"
@@ -22,8 +22,7 @@ main:
     page: https://d-jepa.github.io/t2i
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/high-resolution.bib
     image: ./assets/teaser/high-resolution.png
-    notes: 🔥🔥
-    abstract: Recently, autoregressive models have demonstrated remarkable performance in class-conditional image generation. However, the application of next-token prediction to high-resolution text-to-image generation remains largely unexplored. In this paper, we introduce \textbf{D-JEPA$\cdot$T2I}, an autoregressive model based on continuous tokens that incorporates innovations in both architecture and training strategy to generate high-quality, photorealistic images at arbitrary resolutions, up to 4K. Architecturally, we adopt the denoising joint embedding predictive architecture (D-JEPA) while leveraging a multimodal visual transformer to effectively integrate textual and visual features. Additionally, we introduce flow matching loss alongside the proposed Visual Rotary Positional Embedding (VoPE) to enable continuous resolution learning. In terms of training strategy, we propose a data feedback mechanism that dynamically adjusts the sampling procedure based on statistical analysis and an online learning critic model. This encourages the model to move beyond its comfort zone, reducing redundant training on well-mastered scenarios and compelling it to address more challenging cases with suboptimal generation quality. For the first time, we achieve state-of-the-art high-resolution image synthesis via next-token prediction.
+    abstract: Recently, autoregressive models have demonstrated remarkable performance in class-conditional image generation. However, the application of next-token prediction to high-resolution text-to-image generation remains largely unexplored. In this paper, we introduce D-JEPA T2I, an autoregressive model based on continuous tokens that incorporates innovations in both architecture and training strategy to generate high-quality, photorealistic images at arbitrary resolutions, up to 4K. Architecturally, we adopt the denoising joint embedding predictive architecture (D-JEPA) while leveraging a multimodal visual transformer to effectively integrate textual and visual features. Additionally, we introduce flow matching loss alongside the proposed Visual Rotary Positional Embedding (VoPE) to enable continuous resolution learning. In terms of training strategy, we propose a data feedback mechanism that dynamically adjusts the sampling procedure based on statistical analysis and an online learning critic model. This encourages the model to move beyond its comfort zone, reducing redundant training on well-mastered scenarios and compelling it to address more challenging cases with suboptimal generation quality. For the first time, we achieve state-of-the-art high-resolution image synthesis via next-token prediction.
 
 
   - title: "Denoising with a Joint-Embedding Predictive Architecture"
@@ -34,7 +33,6 @@ main:
     code: https://github.com/D-JEPA/imagenet
     page: https://d-jepa.github.io/
     bibtex: https://raw.githubusercontent.com/densechen/densechen.github.io/refs/heads/main/_data/bibtex/denoising.bib
-    notes: 🔥
     image: ./assets/teaser/denoising.png
     abstract: Joint-embedding predictive architectures (JEPAs) have shown substantial promise in self-supervised representation learning, yet their application in generative modeling remains underexplored. Conversely, diffusion models have demonstrated significant efficacy in modeling arbitrary probability distributions. In this paper, we introduce Denoising with a Joint-Embedding Predictive Architecture (D-JEPA), pioneering the integration of JEPA within generative modeling. By recognizing JEPA as a form of masked image modeling, we reinterpret it as a generalized next-token prediction strategy, facilitating data generation in an autoregressive manner. Furthermore, we incorporate diffusion loss to model the pertoken probability distribution, enabling data generation in a continuous space. We also adapt flow matching loss as an alternative to diffusion loss, thereby enhancing the flexibility of D-JEPA. Empirically, with increased GFLOPs, D-JEPA consistently achieves lower FID scores with fewer training epochs, indicating its good scalability. Our base, large, and huge models outperform all previous generative models across all scales on ImageNet conditional generation benchmarks. Beyond image generation, D-JEPA is well-suited for other continuous data modeling, including video and audio.
 

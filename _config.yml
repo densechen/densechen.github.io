@@ -1,0 +1,29 @@
+# Basic information
+title: 陈登盛 (Dengsheng Chen)
+position: Omni-modal AI Researcher
+affiliation: Mamoda Team, ByteDance
+email: densechen@foxmail.com
+
+# Search engine optimization
+keywords: Dengsheng Chen, 陈登盛, ByteDance, Mamoda, omni-modal AI, raw-space models, unified understanding and generation
+description: Researching frontier omni-modal models that unify understanding and generation directly in raw space.
+canonical: https://densechen.github.io/
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=IFeZHYYAAAAJ&hl
+
+# Images
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+enable_footnote: true
+
+# Analytics
+google_analytics: G-VJQWYYDFD1
+
+# Build
+exclude:
+  - Gemfile
+  - Gemfile.lock
